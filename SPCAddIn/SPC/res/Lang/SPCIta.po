@@ -1,0 +1,1013 @@
+﻿# Encoding: UTF8
+# LocalisationSupport.cs(35)
+# SPCExporterCSV.cs(175)
+# FormExportSettingsQDAS.cs(1037)
+# FormSPCAddIn.cs(1894)
+msgid "Error"
+msgstr "Errore"
+
+# PIConnector.cs(177)
+msgid "Please open at least one document"
+msgstr "Aprire almeno un documento"
+
+# PIConnector.cs(178)
+# PIConnector.cs(189)
+# StateKeeper.cs(266)
+# StateKeeper.cs(279)
+# FormSPCAddIn.cs(1836)
+# FormSPCAddIn.cs(1850)
+# FormSPCAddIn.cs(1864)
+# FormSPCAddIn.cs(1914)
+msgid "Warning"
+msgstr "Attenzione"
+
+# PIConnector.cs(188)
+msgid "It is impossible to export from unsaved document.\nDo you want to save it now and continue to export?"
+msgstr "È impossibile esportare da un documento non salvato-\nSi desidera salvare ora e continuare ad esportare?"
+
+# PIConnector.cs(773)
+msgid "SPC Export\nOpen SPC export dialog\nOpen SPC export dialog"
+msgstr "Esportazione SPC\nApri finestra exportazione SPC\nApri finestra esportazione SPC"
+
+# PIConnectorBase.cs(124)
+msgid "{0} Exception caught."
+msgstr ""
+
+# PIConnectorBase.cs(126)
+msgid "Name Entry Error "
+msgstr ""
+
+# FieldEditors.cs(265)
+msgid "Undo"
+msgstr "Annulla"
+
+# FieldEditors.cs(275)
+msgid "Cut"
+msgstr "Taglia"
+
+# FieldEditors.cs(285)
+msgid "Copy"
+msgstr "Copia"
+
+# FieldEditors.cs(295)
+msgid "Paste"
+msgstr "Incolla"
+
+# FieldEditors.cs(305)
+msgid "Insert Macro"
+msgstr "Inserisci Macro"
+
+# FieldEditors.cs(396)
+# FieldEditors.cs(553)
+msgid "The value you have entered is incorrect"
+msgstr "Il valore inserito non è corretto"
+
+# FieldEditors.cs(397)
+# FieldEditors.cs(554)
+# SPCExporterCSV.cs(105)
+# SPCExporterCSV.cs(115)
+# SPCExporterCSV.cs(125)
+# SPCExporterCSV.cs(145)
+# SPCExporterSDD.cs(215)
+# StateKeeper.cs(187)
+# FormExportSettingsQDAS.cs(1169)
+# FormSPCAddIn.cs(2080)
+# FormSPCAddIn.cs(2143)
+msgid "Attention"
+msgstr "Attenzione"
+
+# GathererElementsTree.cs(206)
+# GathererElementsTree.cs(209)
+# FormSPCAddIn.cs(1081)
+# FormSPCAddIn.cs(1084)
+msgid "IsAccepted"
+msgstr "Accepted"
+
+# SPCExporterCSV.cs(104)
+msgid "There are no measures to export"
+msgstr "Non ci sono misure da esportare"
+
+# SPCExporterCSV.cs(114)
+msgid "There are no variables to export"
+msgstr "Non ci sono variabili da esportare"
+
+# SPCExporterCSV.cs(124)
+msgid "Destination file name not specified"
+msgstr "Nome file di destinazione non specificato"
+
+# SPCExporterCSV.cs(141)
+msgid "The item {0} is not measured for {1}.\nNo data will be written to the file until you measure required item,\n or remove it from export list"
+msgstr "L'elemento {0} non è misurato per {1}.\nNessun dato verrà scritto sul file finchè non si misurerà l'elemento richiesto,\n o lo si rimuoverà dalla lista di esportazione"
+
+# SPCExporterCSV.cs(172)
+msgid "Error occurred while opening file {0}. Probably file is locked by other application."
+msgstr "Errore durante l'apertura del file {0}. Probabilmente il file è bloccato da un'altra applicazione."
+
+# SPCExporterSDD.cs(211)
+msgid "The item {0} is not valid for the measure {1}"
+msgstr "L'elemento {0} non è valido per la misura {1}"
+
+# SPCExporterSDD.cs(252)
+msgid "AcxSDDWrite ActiveX object is not installed or registered properly.\n"
+msgstr "AcxSDDWrite L'oggetto ActiveX non è installato o registrato correttamente.\n"
+
+# SPCExporterSDD.cs(253)
+msgid "It is usually contained in AcxSDDWriter.dll.\n"
+msgstr "È solitamente contenuto in AcxSDDWriter.dll.\n"
+
+# SPCExporterSDD.cs(254)
+msgid "Please, contact Autodesk for assistance."
+msgstr "Contattare Autodesk per assistenza."
+
+# Catalog.cs(76)
+msgid "Customer catalog"
+msgstr "Catalogo Clienti"
+
+# Catalog.cs(80)
+msgid "Manufacturer catalog"
+msgstr "Catalogo Produttori"
+
+# Catalog.cs(84)
+msgid "Supplier catalog"
+msgstr "Catalogo Fornitori"
+
+# Catalog.cs(88)
+msgid "Contract number"
+msgstr "Numero di Contratto"
+
+# Catalog.cs(92)
+msgid "Material catalog"
+msgstr "Catalogo Materiali"
+
+# Catalog.cs(96)
+msgid "Drawing catalog"
+msgstr "Catalogo Disegni"
+
+# Catalog.cs(100)
+msgid "Machine catalog"
+msgstr "Catalogo Macchine"
+
+# Catalog.cs(104)
+msgid "Gage catalog"
+msgstr "Catalogo Gage"
+
+# Catalog.cs(108)
+msgid "Units catalog"
+msgstr "Catalogo Unità"
+
+# Catalog.cs(112)
+msgid "Operator catalog"
+msgstr "Catalogo Operatori"
+
+# Catalog.cs(116)
+msgid "Contractor catalog"
+msgstr "Catalogo Appaltatori"
+
+# Catalog.cs(120)
+msgid "Product catalog"
+msgstr "Catalogo Prodotti"
+
+# Catalog.cs(124)
+msgid "Stuff catalog"
+msgstr "Catalogo Imbottiture"
+
+# Catalog.cs(128)
+msgid "Event catalog"
+msgstr "Catalogo Eventi"
+
+# Catalog.cs(132)
+msgid "Process parameter catalog"
+msgstr "Catalogo Parametri Processo"
+
+# Catalog.cs(136)
+msgid "Cavity catalog"
+msgstr "Catalogo Cavità"
+
+# Catalog.cs(140)
+msgid "Unknown catalog"
+msgstr "Catalogo Sconosciuto"
+
+# StateKeeper.cs(222)
+msgid "SPC Add-In couldn't create auxiliary file {0} next to PowerInspect document.\nThis file is used to remember what data has been recently exported.\n* Make sure you have enough rights\n* Move document file outside of Program Files folder if you have UAC enabled"
+msgstr "Il modulo aggiuntivo SPC non ha potuto creare il file ausiliario {0} accanto al documento PowerInspect.\nQuesto file è utilizzato per ricordare quali dati sono stati esportati di recente.\n* Accertarsi di avere diritti sufficienti\n* Spostare il file documento fuori dalla cartella Programmi se si ha UAC attivato"
+
+# StateKeeper.cs(227)
+msgid "SPC Add-In couldn't create auxiliary file {0}"
+msgstr "Il modulo aggiuntivo SPC non ha potuto creare il file ausiliario {0}"
+
+# StateKeeper.cs(265)
+msgid "SPC settings file associated with this project was created by previous version of SPC add-in.\nWould you like to try to load information from this file?"
+msgstr "Il file di impostazioni SPC associato a questo progetto era stato creato dalla versione precedente del modulo aggiuntivo SPC.\nProvare a caricare le informazioni da questo file?"
+
+# StateKeeper.cs(278)
+msgid "SPC settings file associated with this project was created by newer version of SPC add-in\nIt's impossible to continue the work."
+msgstr "Il file di impostazioni SPC associato a questo progetto era stato creato dalla versione più recente del modulo aggiuntivo SPC\nNon è possibile proseguire con il lavoro."
+
+# FormCatalogItemEditor.cs(188)
+# FormExportSettingsSDD.cs(189)
+# FormFormatSelect.cs(129)
+# FormOperatorInput.cs(173)
+msgid "OK"
+msgstr "OK"
+
+# FormCatalogItemEditor.cs(189)
+# FormExportSettingsQDAS.cs(757)
+msgid "Number"
+msgstr "Numero"
+
+# FormCatalogItemEditor.cs(190)
+# FormExportSettingsQDAS.cs(749)
+# FormExportSettingsQDAS.cs(758)
+# FormOperatorInput.cs(172)
+msgid "Value"
+msgstr "Valore"
+
+# FormCatalogItemEditor.cs(191)
+# FormExportSettingsCSV.cs(174)
+# FormExportSettingsQDAS.cs(731)
+# FormExportSettingsScript.cs(207)
+# FormExportSettingsSDD.cs(190)
+# FormFormatSelect.cs(130)
+# FormOperatorInput.cs(174)
+msgid "Cancel"
+msgstr "Annulla"
+
+# FormCatalogItemEditor.cs(192)
+msgid "Catalog item edit"
+msgstr "Modifica elementi del catalogo"
+
+# FormExportSettingsCSV.cs(171)
+# FormExportSettingsScript.cs(205)
+msgid "Output file"
+msgstr "File di output"
+
+# FormExportSettingsCSV.cs(172)
+# FormExportSettingsQDAS.cs(738)
+# FormExportSettingsScript.cs(203)
+# FormExportSettingsScript.cs(204)
+# FormExportSettingsSDD.cs(188)
+msgid "Browse..."
+msgstr "Sfoglia..."
+
+# FormExportSettingsCSV.cs(173)
+# FormExportSettingsQDAS.cs(730)
+# FormExportSettingsScript.cs(206)
+msgid "Save"
+msgstr "Salva"
+
+# FormExportSettingsCSV.cs(175)
+msgid "CSV export settings"
+msgstr "Impostazioni esportazione CSV"
+
+# FormExportSettingsCSV.cs(181)
+msgid "Select name and location of .CSV file"
+msgstr "Seleziona nome e Posizione del file .CSV"
+
+# FormExportSettingsCSV.cs(182)
+msgid "Comma Separated Values file (*.csv)|*.csv|All files (*.*)|*.*"
+msgstr "Valori Separati da Virgola file (*.csv)|*.csv|Tutti i file (*.*)|*.*"
+
+# FormExportSettingsQDAS.cs(732)
+msgid "Export details"
+msgstr "Dettagli esportazione"
+
+# FormExportSettingsQDAS.cs(733)
+msgid "DFX data"
+msgstr "Dati DFX"
+
+# FormExportSettingsQDAS.cs(734)
+msgid "Time format"
+msgstr "Formato tempo"
+
+# FormExportSettingsQDAS.cs(735)
+msgid "Date format"
+msgstr "Formato data"
+
+# FormExportSettingsQDAS.cs(736)
+msgid "Export date&&time of a measure"
+msgstr "Esporta data&&tempo di una misura"
+
+# FormExportSettingsQDAS.cs(737)
+msgid "Output directory"
+msgstr "Directory di output"
+
+# FormExportSettingsQDAS.cs(739)
+msgid "DFD data"
+msgstr "Dati DFD"
+
+# FormExportSettingsQDAS.cs(740)
+msgid "Export structure information"
+msgstr "Esporta le informazioni sulla struttura"
+
+# FormExportSettingsQDAS.cs(741)
+# FormExportSettingsQDAS.cs(882)
+msgid "Show available fields list"
+msgstr "Mostra elenco dei campi disponibili"
+
+# FormExportSettingsQDAS.cs(742)
+msgid "Available"
+msgstr "Disponibile"
+
+# FormExportSettingsQDAS.cs(743)
+msgid "<-- Remove"
+msgstr "<-- Rimuovi"
+
+# FormExportSettingsQDAS.cs(744)
+msgid "Add -->"
+msgstr "Aggiungi -->"
+
+# FormExportSettingsQDAS.cs(745)
+msgid "KXXXX"
+msgstr "KXXXX"
+
+# FormExportSettingsQDAS.cs(746)
+# FormExportSettingsQDAS.cs(748)
+msgid "Description"
+msgstr "Descrizione"
+
+# FormExportSettingsQDAS.cs(747)
+msgid "Exported"
+msgstr "Esportato"
+
+# FormExportSettingsQDAS.cs(750)
+msgid "Catalog management"
+msgstr "Gestione catalogo"
+
+# FormExportSettingsQDAS.cs(751)
+msgid "Catalogs"
+msgstr "Cataloghi"
+
+# FormExportSettingsQDAS.cs(752)
+msgid "Import from Q-DAS..."
+msgstr "Importa da Q-DAS..."
+
+# FormExportSettingsQDAS.cs(753)
+msgid "Catalog content"
+msgstr "Contenuto catalogo"
+
+# FormExportSettingsQDAS.cs(754)
+msgid "Delete"
+msgstr "Elimina"
+
+# FormExportSettingsQDAS.cs(755)
+msgid "Insert..."
+msgstr "Inserisci..."
+
+# FormExportSettingsQDAS.cs(756)
+msgid "Edit..."
+msgstr "Modifica..."
+
+# FormExportSettingsQDAS.cs(759)
+msgid "Use flat hierarchy"
+msgstr "Utilizza una gerarchia piana"
+
+# FormExportSettingsQDAS.cs(760)
+msgid "Q-DAS export settings"
+msgstr "Impostazioni esportazione Q-DAS"
+
+# FormExportSettingsQDAS.cs(787)
+msgid "Select directory where exported DFD & DFX files should locate"
+msgstr "Seleziona la directory in cui collocare i file DFD & DFX esportati"
+
+# FormExportSettingsQDAS.cs(880)
+msgid "Hide available fields list"
+msgstr "Nascondi l'elenco dei campi disponibili"
+
+# FormExportSettingsQDAS.cs(1029)
+msgid "Select name and location of .DFD file"
+msgstr "Seleziona nome e Posizione del file .DFD"
+
+# FormExportSettingsQDAS.cs(1030)
+msgid "DFD file (*.DFD)|*.DFD|All files (*.*)|*.*"
+msgstr "File DFD (*.DFD)|*.DFD|Tutti i file (*.*)|*.*"
+
+# FormExportSettingsQDAS.cs(1036)
+msgid "Failed to load catalog information.\nPlease make sure you have selected correct file."
+msgstr "Caricamento informazioni catalogo non riuscito.\nAssicurarsi di aver selezionato il file corretto."
+
+# FormExportSettingsQDAS.cs(1103)
+msgid "Edit catalog item"
+msgstr "Modifica elemento del catalogo"
+
+# FormExportSettingsQDAS.cs(1130)
+msgid "Delete {0} items?"
+msgstr "Eliminare {0} elementi?"
+
+# FormExportSettingsQDAS.cs(1133)
+msgid "Confirmation"
+msgstr "Conferma"
+
+# FormExportSettingsQDAS.cs(1160)
+msgid "Create catalog item"
+msgstr "Crea un elemento del catalogo"
+
+# FormExportSettingsQDAS.cs(1168)
+msgid "Item with same number and value already exists"
+msgstr "Un elemento dallo stesso numero e valore esiste già"
+
+# FormExportSettingsScript.cs(202)
+msgid "Script file"
+msgstr "File script"
+
+# FormExportSettingsScript.cs(208)
+msgid "Script export settings"
+msgstr "Impostazioni di esportazione file Script"
+
+# FormExportSettingsScript.cs(227)
+msgid "Select script file to process"
+msgstr "Seleziona il file script da trattare"
+
+# FormExportSettingsScript.cs(228)
+msgid "VBScript files (*.vbs)|*.vbs|JScript files (*.js)|*.js|All files (*.*)|*.*"
+msgstr "VBScript files (*.vbs)|*.vbs|JScript files (*.js)|*.js|All files (*.*)|*.*"
+
+# FormExportSettingsScript.cs(250)
+msgid "Select output file"
+msgstr "Seleziona file di output"
+
+# FormExportSettingsScript.cs(251)
+msgid "Text files (*.txt)|*.txt|All files (*.*)|*.*"
+msgstr "File di testo (*.txt)|*.txt|Tutti i file (*.*)|*.*"
+
+# FormExportSettingsSDD.cs(186)
+msgid "Output folder"
+msgstr "Cartella di output"
+
+# FormExportSettingsSDD.cs(187)
+msgid "File name (without an extension)"
+msgstr "Nome del file (senza estensione)"
+
+# FormExportSettingsSDD.cs(191)
+msgid "SDD export settings"
+msgstr "Impostazioni di esportazione SDD"
+
+# FormExportSettingsSDD.cs(236)
+msgid "Select a folder to export"
+msgstr "Seleziona una cartella per l'esportazione"
+
+# FormFormatSelect.cs(124)
+msgid "Available export formats"
+msgstr "Formati di esportazione disponibili"
+
+# FormFormatSelect.cs(125)
+msgid "Custom script (JScript, VBScript)"
+msgstr "Script personalizzato (JScript, VBScript)"
+
+# FormFormatSelect.cs(126)
+msgid "Q-DAS (*.dfd, *.dfx)"
+msgstr "Q-DAS (*.dfd, *.dfx)"
+
+# FormFormatSelect.cs(127)
+msgid "Lighthouse Systems' SPC data file format (*.sdd)"
+msgstr "Lighthouse Systems' formato di file SPC (*.sdd)"
+
+# FormFormatSelect.cs(128)
+msgid "Comma separated values (*.csv)"
+msgstr "Valori Separati da Virgola (*.csv)"
+
+# FormFormatSelect.cs(131)
+msgid "Select export format"
+msgstr "Seleziona formato esportazione"
+
+# FormOperatorInput.cs(171)
+msgid "Name"
+msgstr "Nome"
+
+# FormOperatorInput.cs(175)
+msgid "Operator input"
+msgstr "Input operatore"
+
+# FormSPCAddIn.cs(530)
+msgid "Export..."
+msgstr "Esporta..."
+
+# FormSPCAddIn.cs(531)
+msgid "Close"
+msgstr "Chiudi"
+
+# FormSPCAddIn.cs(532)
+msgid "Elements to export"
+msgstr "Elementi da esportare"
+
+# FormSPCAddIn.cs(533)
+msgid "Select unexported"
+msgstr "Seleziona non esportati"
+
+# FormSPCAddIn.cs(534)
+msgid "Select latest"
+msgstr "Seleziona ultimi"
+
+# FormSPCAddIn.cs(535)
+# FormSPCAddIn.cs(543)
+msgid "Clear all"
+msgstr "Pulisci tutto"
+
+# FormSPCAddIn.cs(536)
+msgid "Select all reported"
+msgstr "Seleziona"
+
+# FormSPCAddIn.cs(537)
+msgid "Measure"
+msgstr "Misura"
+
+# FormSPCAddIn.cs(538)
+msgid "Extra information"
+msgstr "Informazioni aggiuntive"
+
+# FormSPCAddIn.cs(539)
+msgid "Expand"
+msgstr "Espandi"
+
+# FormSPCAddIn.cs(540)
+msgid "Collapse"
+msgstr "Minimizza"
+
+# FormSPCAddIn.cs(541)
+msgid "-"
+msgstr "-"
+
+# FormSPCAddIn.cs(542)
+msgid "Expand all"
+msgstr "Espandi tutto"
+
+# FormSPCAddIn.cs(544)
+# FormSPCAddIn.cs(545)
+msgid "Select all"
+msgstr "Seleziona tutto"
+
+# FormSPCAddIn.cs(546)
+msgid "Measure part name"
+msgstr "Misura nome parte"
+
+# FormSPCAddIn.cs(547)
+msgid "Settings..."
+msgstr "Impostazioni..."
+
+# FormSPCAddIn.cs(549)
+msgid "SPC Export Add-In [Base measure - \"{0}\"]"
+msgstr "Aggiungi In Esportazione SPC [Base misura - \"{0}\"]"
+
+# FormSPCAddIn.cs(1208)
+msgid "Coordinates"
+msgstr "Coordinate"
+
+# FormSPCAddIn.cs(1712)
+msgid "Invalid for item(s): {0}"
+msgstr "Non valido per l'elemento(i): {0}"
+
+# FormSPCAddIn.cs(1835)
+msgid "There are no measures to export.\nPlease select at least one."
+msgstr "Non ci sono misure da esportare.\nSelezionarne almeno una."
+
+# FormSPCAddIn.cs(1849)
+msgid "There are no variables to export.\nPlease select at least one."
+msgstr "Non ci sono variabili da esportare.\nSelezionarne almeno una."
+
+# FormSPCAddIn.cs(1863)
+msgid "Some measures are invalid for selected variables.\nPlease check measure's extra information."
+msgstr "Alcune misure non sono valide per le variabili selezionate.\nControllare le informazioni aggiuntive sulla misura."
+
+# FormSPCAddIn.cs(1893)
+msgid "Initial setup should be made before export."
+msgstr "L'impostazione iniziale dovrebbe essere effettuata prima di esportare."
+
+# FormSPCAddIn.cs(1907)
+msgid "Export aborted by user"
+msgstr "Esportazione interrotta dall'utente"
+
+# FormSPCAddIn.cs(1913)
+msgid "Export has failed because of lack of input data"
+msgstr "L'esportazione è fallita a causa di mancanza di dati in entrata"
+
+# FormSPCAddIn.cs(1931)
+msgid "Data has been successfully exported"
+msgstr "I dati sono stati esportati con successo"
+
+# FormSPCAddIn.cs(1939)
+msgid "Error while exporting data"
+msgstr "Errore durante l'esportazione dei dati"
+
+# FormSPCAddIn.cs(2077)
+msgid " {0} items have not been selected because they are not applicable for active sort of measurement"
+msgstr " {0} elementi non sono stati selezionati perché non era applicabili per il tipo di misurazione attivo"
+
+# FormSPCAddIn.cs(2142)
+msgid "This measure have been exported before.\nRe-exporting measure may cause wrong statistic processing by SPC software.\n Are you sure you want to re-export data?"
+msgstr "Questa misura è stata esportata in precedenza.\nRiesportare la misura può causare l'elaborazione statistica sbagliata dal software SPC.\n Esportare nuovamente i dati?"
+
+# FormSPCAddIn.cs(2248)
+msgid "There are already exported measures in the list.\nRe-exporting measures may cause some problems in statistics calculation process of SPC software.\nAre you sure you want to overwrite them all?"
+msgstr "Ci sono già misure esportate nell'elenco.\nLa riesportazione delle misure potrebbe causare alcuni problemi nel processo di calcolo statistico del software SPC.\nSovrascriverle tutte?"
+
+# FormSPCAddIn.cs(2249)
+msgid "Already exported measures detected"
+msgstr "Rilevate misure già esportate"
+
+# MacroManager.cs(30)
+msgid "Document name"
+msgstr "Nome Documento"
+
+# MacroManager.cs(40)
+msgid "Document name (short)"
+msgstr "Nome Documento (corto)"
+
+# MacroManager.cs(51)
+msgid "Measure name"
+msgstr "Nome misura"
+
+# ReportItemGDT.cs(115)
+msgid "Can't create MSXML2.DOMDocument object"
+msgstr "Impossibile creare l'oggetto del documento MSXML2.DOMD"
+
+# ScriptProcessorNetCS.cs(74)
+# ScriptProcessorNetJS.cs(63)
+# ScriptProcessorNetVB.cs(64)
+msgid "Line: {0}, Col: {1}, Error: {2} - {3}"
+msgstr "Linea: {0}, Col: {1}, Errore: {2} - {3}"
+
+# ScriptProcessorNetCS.cs(75)
+# ScriptProcessorNetJS.cs(64)
+# ScriptProcessorNetVB.cs(65)
+msgid "Error while compiling script"
+msgstr "Errore durante la compilazione dello script"
+
+# ScriptProcessorNetCS.cs(92)
+# ScriptProcessorNetJS.cs(81)
+# ScriptProcessorNetVB.cs(80)
+msgid "Can't find class {0} in script file"
+msgstr "Impossibile trovare la classe {0} nel file script"
+
+# ExportSettingsQDAS.cs(458)
+msgid "Part number"
+msgstr "Numero parte"
+
+# ExportSettingsQDAS.cs(463)
+msgid "Part description"
+msgstr "Descrizione parte"
+
+# ExportSettingsQDAS.cs(468)
+msgid "Part abbreviation"
+msgstr "Abbreviazione parte"
+
+# ExportSettingsQDAS.cs(473)
+msgid "Part Amendment status"
+msgstr "Stato della Correzione della Parte"
+
+# ExportSettingsQDAS.cs(478)
+msgid "Product"
+msgstr "Prodotto"
+
+# ExportSettingsQDAS.cs(483)
+msgid "Abbreviation Part no."
+msgstr "No. Parte dell'Abbreviazione"
+
+# ExportSettingsQDAS.cs(488)
+msgid "Part type"
+msgstr "Tipo parte"
+
+# ExportSettingsQDAS.cs(493)
+msgid "Part code"
+msgstr "Codice parte"
+
+# ExportSettingsQDAS.cs(498)
+msgid "Control item"
+msgstr "Elemento controllo"
+
+# ExportSettingsQDAS.cs(503)
+msgid "Variant"
+msgstr "Variante"
+
+# ExportSettingsQDAS.cs(508)
+msgid "ID number annex"
+msgstr "Numero ID annesso"
+
+# ExportSettingsQDAS.cs(513)
+msgid "ID number index"
+msgstr "Numero ID annesso"
+
+# ExportSettingsQDAS.cs(518)
+msgid "Parts ID"
+msgstr "ID Parti"
+
+# ExportSettingsQDAS.cs(523)
+msgid "Assembly part"
+msgstr "Parte Assieme"
+
+# ExportSettingsQDAS.cs(528)
+msgid "Manufacturer Catalog"
+msgstr "Catalogo produttore"
+
+# ExportSettingsQDAS.cs(533)
+msgid "Manufacturer No."
+msgstr "No. produttore"
+
+# ExportSettingsQDAS.cs(538)
+msgid "Manufacturer name"
+msgstr "Nome produttore"
+
+# ExportSettingsQDAS.cs(543)
+msgid "Manufacturer number"
+msgstr "Numero produttore"
+
+# ExportSettingsQDAS.cs(548)
+msgid "Materials Catalog"
+msgstr "Catalogo Materiali"
+
+# ExportSettingsQDAS.cs(553)
+# ExportSettingsQDAS.cs(563)
+msgid "Material number"
+msgstr "Numero materiale"
+
+# ExportSettingsQDAS.cs(558)
+msgid "Material Description"
+msgstr "Descrizione materiale"
+
+# ExportSettingsQDAS.cs(568)
+msgid "Drawing Catalog"
+msgstr "Catalogo Disegno"
+
+# ExportSettingsQDAS.cs(573)
+msgid "Drawing number"
+msgstr "Numero disegno"
+
+# ExportSettingsQDAS.cs(578)
+msgid "Drawing Amendment"
+msgstr "Correzione Disegno"
+
+# ExportSettingsQDAS.cs(583)
+msgid "Drawing Index"
+msgstr "Indice Disegno"
+
+# ExportSettingsQDAS.cs(588)
+msgid "Drawing Number"
+msgstr "Numero Disegno"
+
+# ExportSettingsQDAS.cs(593)
+msgid "Drawing validation date"
+msgstr "Data validazione Disegno"
+
+# ExportSettingsQDAS.cs(598)
+msgid "Drawing name"
+msgstr "Nome Disegno"
+
+# ExportSettingsQDAS.cs(603)
+msgid "Basic drawing number"
+msgstr "Numero base Disegno"
+
+# ExportSettingsQDAS.cs(608)
+# ExportSettingsQDAS.cs(623)
+msgid "Contractor Number"
+msgstr "Numero Contraente"
+
+# ExportSettingsQDAS.cs(613)
+msgid "Contractor Name"
+msgstr "Nome Contraente"
+
+# ExportSettingsQDAS.cs(618)
+msgid "Contract"
+msgstr "Contratto"
+
+# ExportSettingsQDAS.cs(628)
+# ExportSettingsQDAS.cs(638)
+msgid "Customer Number"
+msgstr "Numero Cliente"
+
+# ExportSettingsQDAS.cs(633)
+msgid "Customer Name"
+msgstr "Nome Cliente"
+
+# ExportSettingsQDAS.cs(643)
+# ExportSettingsQDAS.cs(653)
+msgid "Supplier Number"
+msgstr "Numero Fornitore"
+
+# ExportSettingsQDAS.cs(648)
+msgid "Supplier Name"
+msgstr "Nome Fornitore"
+
+# ExportSettingsQDAS.cs(658)
+# ExportSettingsQDAS.cs(668)
+msgid "Machine Number"
+msgstr "Numero Macchina"
+
+# ExportSettingsQDAS.cs(663)
+msgid "Machine Description"
+msgstr "Descrizione Macchina"
+
+# ExportSettingsQDAS.cs(673)
+msgid "Machine Location"
+msgstr "Posizione Macchina"
+
+# ExportSettingsQDAS.cs(678)
+msgid "Work Cycle"
+msgstr "Ciclo di Lavoro"
+
+# ExportSettingsQDAS.cs(683)
+msgid "Plant Sector"
+msgstr "Settore Impianto"
+
+# ExportSettingsQDAS.cs(688)
+msgid "Department"
+msgstr "Dipartimento"
+
+# ExportSettingsQDAS.cs(693)
+msgid "Workshop/sector"
+msgstr "Laboratorio/settore"
+
+# ExportSettingsQDAS.cs(698)
+msgid "Cost centre"
+msgstr "Centro costi"
+
+# ExportSettingsQDAS.cs(703)
+msgid "Shift"
+msgstr "Spostare"
+
+# ExportSettingsQDAS.cs(708)
+msgid "Order number"
+msgstr "Numero ordine"
+
+# ExportSettingsQDAS.cs(713)
+msgid "Goods received number"
+msgstr "Numero ricezione beni"
+
+# ExportSettingsQDAS.cs(718)
+msgid "Test Facility Number"
+msgstr "Prova Numero Agevolazione"
+
+# ExportSettingsQDAS.cs(723)
+msgid "Test Facility Description"
+msgstr "Prova Descrizione Agevolazione"
+
+# ExportSettingsQDAS.cs(728)
+msgid "Reason for Test"
+msgstr "Ragione della Prova"
+
+# ExportSettingsQDAS.cs(733)
+msgid "Test Begin"
+msgstr "Inizio Prova"
+
+# ExportSettingsQDAS.cs(738)
+msgid "Test End"
+msgstr "Fine Prova"
+
+# ExportSettingsQDAS.cs(743)
+msgid "Test Location"
+msgstr "Prova Posizione"
+
+# ExportSettingsQDAS.cs(748)
+msgid "Test Facility No."
+msgstr "Prova Agevolazione Num."
+
+# ExportSettingsQDAS.cs(753)
+msgid "Inspection type"
+msgstr "Tipo di ispezione"
+
+# ExportSettingsQDAS.cs(758)
+msgid "measurement type"
+msgstr "tipo di misurazione"
+
+# ExportSettingsQDAS.cs(763)
+msgid "Standard Number"
+msgstr "Numero Standard"
+
+# ExportSettingsQDAS.cs(768)
+msgid "Standard description"
+msgstr "Descrizione standard "
+
+# ExportSettingsQDAS.cs(773)
+msgid "Standard number"
+msgstr "Numero standard"
+
+# ExportSettingsQDAS.cs(778)
+# ExportSettingsQDAS.cs(788)
+msgid "Inspector number"
+msgstr "Numero ispettore"
+
+# ExportSettingsQDAS.cs(783)
+msgid "Inspector name"
+msgstr "Nome ispettore"
+
+# ExportSettingsQDAS.cs(793)
+msgid "Gage room"
+msgstr "Gage room"
+
+# ExportSettingsQDAS.cs(798)
+msgid "Measuring program number"
+msgstr "Numero programma di misurazione"
+
+# ExportSettingsQDAS.cs(803)
+msgid "Measuring program version"
+msgstr "Versione programma di misurazione"
+
+# ExportSettingsQDAS.cs(808)
+msgid "Client"
+msgstr "Client"
+
+# ExportSettingsQDAS.cs(813)
+msgid "Test batch"
+msgstr "Prova batch"
+
+# ExportSettingsQDAS.cs(818)
+msgid "plant"
+msgstr "pianta"
+
+# ExportSettingsQDAS.cs(823)
+msgid "Production order"
+msgstr "Ordine produzione"
+
+# ExportSettingsQDAS.cs(828)
+msgid "Test Plan Number Text"
+msgstr "Prova Testo Numero Pianta"
+
+# ExportSettingsQDAS.cs(833)
+msgid "Test Plan Name"
+msgstr "Prova Nome Pianta"
+
+# ExportSettingsQDAS.cs(838)
+msgid "Test Plan Development Date"
+msgstr "Prova Data Sviluppo Pianta"
+
+# ExportSettingsQDAS.cs(843)
+msgid "Test Plan Developer"
+msgstr "Prova Sviluppatore Pianta"
+
+# ExportSettingsQDAS.cs(848)
+msgid "Remark"
+msgstr "Commento"
+
+# ExportSettingsQDAS.cs(858)
+msgid "attribute"
+msgstr "attributo"
+
+# ExportSettingsQDAS.cs(863)
+msgid "Flag"
+msgstr "Flag"
+
+# ExportSettingsQDAS.cs(868)
+msgid "Event"
+msgstr "Evento"
+
+# ExportSettingsQDAS.cs(873)
+msgid "Batch number"
+msgstr "Numero batch"
+
+# ExportSettingsQDAS.cs(878)
+msgid "Cavity number"
+msgstr "Numero cavità"
+
+# ExportSettingsQDAS.cs(883)
+msgid "Operator name"
+msgstr "Nome operatore"
+
+# ExportSettingsQDAS.cs(888)
+msgid "Text"
+msgstr "Testo"
+
+# ExportSettingsQDAS.cs(893)
+msgid "Machine number"
+msgstr "Numero macchina"
+
+# ExportSettingsQDAS.cs(898)
+msgid "Process parameter"
+msgstr "Parametro del processo"
+
+# ExportSettingsQDAS.cs(903)
+msgid "Gage number"
+msgstr "Numero Gage"
+
+# ExportSettingsQDAS.cs(908)
+msgid "Process parameter value"
+msgstr "Valore parametro del processo"
+
+# ExportSettingsQDAS.cs(913)
+msgid "Subgroup size"
+msgstr "Dimensioni sotto gruppi"
+
+# ExportSettingsQDAS.cs(918)
+msgid "No. of errors"
+msgstr "N. di errori"
+
+# ExportSettingsQDAS.cs(923)
+msgid "Number < LSL"
+msgstr "Numero < LSL"
+
+# ExportSettingsQDAS.cs(928)
+msgid "Number > USL"
+msgstr "Numero > LSL"
+
+# ExportSettingsQDAS.cs(933)
+msgid "Rejects"
+msgstr "Eliminare"
+
+# ExportSettingsQDAS.cs(938)
+msgid "Re-work"
+msgstr "Ri-lavorare"
+
+# ExportSettingsQDAS.cs(943)
+msgid "Error class"
+msgstr "Classe dell'errore"
+
+# ExportSettingsQDAS.cs(948)
+msgid "Order"
+msgstr "Ordine"
+

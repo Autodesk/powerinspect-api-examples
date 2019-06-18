@@ -1,0 +1,1013 @@
+﻿# Encoding: UTF8
+# LocalisationSupport.cs(35)
+# SPCExporterCSV.cs(175)
+# FormExportSettingsQDAS.cs(1037)
+# FormSPCAddIn.cs(1894)
+msgid "Error"
+msgstr "错误"
+
+# PIConnector.cs(177)
+msgid "Please open at least one document"
+msgstr "请至少打开一个文档"
+
+# PIConnector.cs(178)
+# PIConnector.cs(189)
+# StateKeeper.cs(266)
+# StateKeeper.cs(279)
+# FormSPCAddIn.cs(1836)
+# FormSPCAddIn.cs(1850)
+# FormSPCAddIn.cs(1864)
+# FormSPCAddIn.cs(1914)
+msgid "Warning"
+msgstr "警告"
+
+# PIConnector.cs(188)
+msgid "It is impossible to export from unsaved document.\nDo you want to save it now and continue to export?"
+msgstr "不能从未保存文档输出。\n现在就保存文档并继续输出?"
+
+# PIConnector.cs(773)
+msgid "SPC Export\nOpen SPC export dialog\nOpen SPC export dialog"
+msgstr "SPC 输出\n打开 SPC 输出对话框\n打开 SPC 输出对话框"
+
+# PIConnectorBase.cs(124)
+msgid "{0} Exception caught."
+msgstr ""
+
+# PIConnectorBase.cs(126)
+msgid "Name Entry Error "
+msgstr ""
+
+# FieldEditors.cs(265)
+msgid "Undo"
+msgstr "撤销"
+
+# FieldEditors.cs(275)
+msgid "Cut"
+msgstr "剪切"
+
+# FieldEditors.cs(285)
+msgid "Copy"
+msgstr "复制"
+
+# FieldEditors.cs(295)
+msgid "Paste"
+msgstr "粘贴"
+
+# FieldEditors.cs(305)
+msgid "Insert Macro"
+msgstr "插入宏"
+
+# FieldEditors.cs(396)
+# FieldEditors.cs(553)
+msgid "The value you have entered is incorrect"
+msgstr "输入的值有误"
+
+# FieldEditors.cs(397)
+# FieldEditors.cs(554)
+# SPCExporterCSV.cs(105)
+# SPCExporterCSV.cs(115)
+# SPCExporterCSV.cs(125)
+# SPCExporterCSV.cs(145)
+# SPCExporterSDD.cs(215)
+# StateKeeper.cs(187)
+# FormExportSettingsQDAS.cs(1169)
+# FormSPCAddIn.cs(2080)
+# FormSPCAddIn.cs(2143)
+msgid "Attention"
+msgstr "注意"
+
+# GathererElementsTree.cs(206)
+# GathererElementsTree.cs(209)
+# FormSPCAddIn.cs(1081)
+# FormSPCAddIn.cs(1084)
+msgid "IsAccepted"
+msgstr "被接受"
+
+# SPCExporterCSV.cs(104)
+msgid "There are no measures to export"
+msgstr "无测量输出"
+
+# SPCExporterCSV.cs(114)
+msgid "There are no variables to export"
+msgstr "无变量输出"
+
+# SPCExporterCSV.cs(124)
+msgid "Destination file name not specified"
+msgstr "未指定目标文件名"
+
+# SPCExporterCSV.cs(141)
+msgid "The item {0} is not measured for {1}.\nNo data will be written to the file until you measure required item,\n or remove it from export list"
+msgstr "项目 {0} 未 {1}测量。\n无数据写入到文件，直到测量了所需项目，\n或是从输出列表删除"
+
+# SPCExporterCSV.cs(172)
+msgid "Error occurred while opening file {0}. Probably file is locked by other application."
+msgstr "打开文件 {0}时出现错误。文件可能被其它应用程序锁定。"
+
+# SPCExporterSDD.cs(211)
+msgid "The item {0} is not valid for the measure {1}"
+msgstr "项目 {0} 对测量 {1} 而言无效"
+
+# SPCExporterSDD.cs(252)
+msgid "AcxSDDWrite ActiveX object is not installed or registered properly.\n"
+msgstr "AcxSDDWrite ActiveX 对象未安装或注册有误。\n"
+
+# SPCExporterSDD.cs(253)
+msgid "It is usually contained in AcxSDDWriter.dll.\n"
+msgstr "通常包含在AcxSDDWriter.dll文件中。\n"
+
+# SPCExporterSDD.cs(254)
+msgid "Please, contact Autodesk for assistance."
+msgstr "请与Autodesk 联系，寻求帮助。"
+
+# Catalog.cs(76)
+msgid "Customer catalog"
+msgstr "自定义目录"
+
+# Catalog.cs(80)
+msgid "Manufacturer catalog"
+msgstr "制造商目录"
+
+# Catalog.cs(84)
+msgid "Supplier catalog"
+msgstr "供应商目录"
+
+# Catalog.cs(88)
+msgid "Contract number"
+msgstr "合同号"
+
+# Catalog.cs(92)
+msgid "Material catalog"
+msgstr "材料目录"
+
+# Catalog.cs(96)
+msgid "Drawing catalog"
+msgstr "绘图目录"
+
+# Catalog.cs(100)
+msgid "Machine catalog"
+msgstr "测量设备目录"
+
+# Catalog.cs(104)
+msgid "Gage catalog"
+msgstr "Gage 目录"
+
+# Catalog.cs(108)
+msgid "Units catalog"
+msgstr "单位目录"
+
+# Catalog.cs(112)
+msgid "Operator catalog"
+msgstr "操作者目录"
+
+# Catalog.cs(116)
+msgid "Contractor catalog"
+msgstr "承包商目录"
+
+# Catalog.cs(120)
+msgid "Product catalog"
+msgstr "产品目录"
+
+# Catalog.cs(124)
+msgid "Stuff catalog"
+msgstr "Stuff 目录"
+
+# Catalog.cs(128)
+msgid "Event catalog"
+msgstr "事件目录"
+
+# Catalog.cs(132)
+msgid "Process parameter catalog"
+msgstr "处理参数目录"
+
+# Catalog.cs(136)
+msgid "Cavity catalog"
+msgstr "Cavity 目录"
+
+# Catalog.cs(140)
+msgid "Unknown catalog"
+msgstr "未知目录"
+
+# StateKeeper.cs(222)
+msgid "SPC Add-In couldn't create auxiliary file {0} next to PowerInspect document.\nThis file is used to remember what data has been recently exported.\n* Make sure you have enough rights\n* Move document file outside of Program Files folder if you have UAC enabled"
+msgstr "SPC 附加模块不能创建PowerInspect辅助文件 {0} 。\n这个文件用来记录近期输出过的数据。\n* 确认您具备足够的许可\n* 如果UAC启用，移动文档文件在 Program Files 文件夹之外"
+
+# StateKeeper.cs(227)
+msgid "SPC Add-In couldn't create auxiliary file {0}"
+msgstr "SPC 附加模块不能创建辅助文件 {0}"
+
+# StateKeeper.cs(265)
+msgid "SPC settings file associated with this project was created by previous version of SPC add-in.\nWould you like to try to load information from this file?"
+msgstr "和此项目相关的 SPC 设置文件是由以前版本的 SPC 附加模块创建。\n从此文件加载信息?"
+
+# StateKeeper.cs(278)
+msgid "SPC settings file associated with this project was created by newer version of SPC add-in\nIt's impossible to continue the work."
+msgstr "和此项目相关的 SPC 设置文件是由较新版本的 SPC 附加模块创建\n不能继续工作。"
+
+# FormCatalogItemEditor.cs(188)
+# FormExportSettingsSDD.cs(189)
+# FormFormatSelect.cs(129)
+# FormOperatorInput.cs(173)
+msgid "OK"
+msgstr "确定"
+
+# FormCatalogItemEditor.cs(189)
+# FormExportSettingsQDAS.cs(757)
+msgid "Number"
+msgstr "数量"
+
+# FormCatalogItemEditor.cs(190)
+# FormExportSettingsQDAS.cs(749)
+# FormExportSettingsQDAS.cs(758)
+# FormOperatorInput.cs(172)
+msgid "Value"
+msgstr "值"
+
+# FormCatalogItemEditor.cs(191)
+# FormExportSettingsCSV.cs(174)
+# FormExportSettingsQDAS.cs(731)
+# FormExportSettingsScript.cs(207)
+# FormExportSettingsSDD.cs(190)
+# FormFormatSelect.cs(130)
+# FormOperatorInput.cs(174)
+msgid "Cancel"
+msgstr "取消"
+
+# FormCatalogItemEditor.cs(192)
+msgid "Catalog item edit"
+msgstr "目录项目编辑"
+
+# FormExportSettingsCSV.cs(171)
+# FormExportSettingsScript.cs(205)
+msgid "Output file"
+msgstr "输出文件"
+
+# FormExportSettingsCSV.cs(172)
+# FormExportSettingsQDAS.cs(738)
+# FormExportSettingsScript.cs(203)
+# FormExportSettingsScript.cs(204)
+# FormExportSettingsSDD.cs(188)
+msgid "Browse..."
+msgstr "浏览..."
+
+# FormExportSettingsCSV.cs(173)
+# FormExportSettingsQDAS.cs(730)
+# FormExportSettingsScript.cs(206)
+msgid "Save"
+msgstr "保存"
+
+# FormExportSettingsCSV.cs(175)
+msgid "CSV export settings"
+msgstr "CSV 输出设置"
+
+# FormExportSettingsCSV.cs(181)
+msgid "Select name and location of .CSV file"
+msgstr "选择 .CSV 文件名称和位置"
+
+# FormExportSettingsCSV.cs(182)
+msgid "Comma Separated Values file (*.csv)|*.csv|All files (*.*)|*.*"
+msgstr "Comma Separated Values 文件 (*.csv)|*.csv|所有文件 (*.*)|*.*"
+
+# FormExportSettingsQDAS.cs(732)
+msgid "Export details"
+msgstr "输出详细信息"
+
+# FormExportSettingsQDAS.cs(733)
+msgid "DFX data"
+msgstr "DFX 数据"
+
+# FormExportSettingsQDAS.cs(734)
+msgid "Time format"
+msgstr "时间格式"
+
+# FormExportSettingsQDAS.cs(735)
+msgid "Date format"
+msgstr "日期格式"
+
+# FormExportSettingsQDAS.cs(736)
+msgid "Export date&&time of a measure"
+msgstr "输出测量的时间和日期"
+
+# FormExportSettingsQDAS.cs(737)
+msgid "Output directory"
+msgstr "输出目录"
+
+# FormExportSettingsQDAS.cs(739)
+msgid "DFD data"
+msgstr "DFD数据"
+
+# FormExportSettingsQDAS.cs(740)
+msgid "Export structure information"
+msgstr "输出结构信息"
+
+# FormExportSettingsQDAS.cs(741)
+# FormExportSettingsQDAS.cs(882)
+msgid "Show available fields list"
+msgstr "显示可用域清单"
+
+# FormExportSettingsQDAS.cs(742)
+msgid "Available"
+msgstr "可用"
+
+# FormExportSettingsQDAS.cs(743)
+msgid "<-- Remove"
+msgstr "<-- 删除"
+
+# FormExportSettingsQDAS.cs(744)
+msgid "Add -->"
+msgstr "增加 -->"
+
+# FormExportSettingsQDAS.cs(745)
+msgid "KXXXX"
+msgstr "KXXXX"
+
+# FormExportSettingsQDAS.cs(746)
+# FormExportSettingsQDAS.cs(748)
+msgid "Description"
+msgstr "描述"
+
+# FormExportSettingsQDAS.cs(747)
+msgid "Exported"
+msgstr "输出"
+
+# FormExportSettingsQDAS.cs(750)
+msgid "Catalog management"
+msgstr "目录管理"
+
+# FormExportSettingsQDAS.cs(751)
+msgid "Catalogs"
+msgstr "目录"
+
+# FormExportSettingsQDAS.cs(752)
+msgid "Import from Q-DAS..."
+msgstr "从 Q-DAS 输入..."
+
+# FormExportSettingsQDAS.cs(753)
+msgid "Catalog content"
+msgstr "目录内容"
+
+# FormExportSettingsQDAS.cs(754)
+msgid "Delete"
+msgstr "删除"
+
+# FormExportSettingsQDAS.cs(755)
+msgid "Insert..."
+msgstr "插入..."
+
+# FormExportSettingsQDAS.cs(756)
+msgid "Edit..."
+msgstr "编辑..."
+
+# FormExportSettingsQDAS.cs(759)
+msgid "Use flat hierarchy"
+msgstr "使用平坦层"
+
+# FormExportSettingsQDAS.cs(760)
+msgid "Q-DAS export settings"
+msgstr "Q-DAS 输出设置"
+
+# FormExportSettingsQDAS.cs(787)
+msgid "Select directory where exported DFD & DFX files should locate"
+msgstr "选择输出的 DFD和DFX 文件的目录位置"
+
+# FormExportSettingsQDAS.cs(880)
+msgid "Hide available fields list"
+msgstr "隐藏可用域清单"
+
+# FormExportSettingsQDAS.cs(1029)
+msgid "Select name and location of .DFD file"
+msgstr "选择 .DFD 文件名称和位置"
+
+# FormExportSettingsQDAS.cs(1030)
+msgid "DFD file (*.DFD)|*.DFD|All files (*.*)|*.*"
+msgstr "DFD 文件 (*.DFD)|*.DFD|所有文件 (*.*)|*.*"
+
+# FormExportSettingsQDAS.cs(1036)
+msgid "Failed to load catalog information.\nPlease make sure you have selected correct file."
+msgstr "加载目录信息失败。\n请确认选择了正确的文件。"
+
+# FormExportSettingsQDAS.cs(1103)
+msgid "Edit catalog item"
+msgstr "编辑目录项目"
+
+# FormExportSettingsQDAS.cs(1130)
+msgid "Delete {0} items?"
+msgstr "删除 {0} 项目?"
+
+# FormExportSettingsQDAS.cs(1133)
+msgid "Confirmation"
+msgstr "确认"
+
+# FormExportSettingsQDAS.cs(1160)
+msgid "Create catalog item"
+msgstr "创建目录项目"
+
+# FormExportSettingsQDAS.cs(1168)
+msgid "Item with same number and value already exists"
+msgstr "已存在相同编号和值的项目"
+
+# FormExportSettingsScript.cs(202)
+msgid "Script file"
+msgstr "脚本文件"
+
+# FormExportSettingsScript.cs(208)
+msgid "Script export settings"
+msgstr "脚本输出设置"
+
+# FormExportSettingsScript.cs(227)
+msgid "Select script file to process"
+msgstr "选择要处理的脚本文件"
+
+# FormExportSettingsScript.cs(228)
+msgid "VBScript files (*.vbs)|*.vbs|JScript files (*.js)|*.js|All files (*.*)|*.*"
+msgstr "VBScript 文件 (*.vbs)|*.vbs|JScript 文件 (*.js)|*.js|所有文件 (*.*)|*.*"
+
+# FormExportSettingsScript.cs(250)
+msgid "Select output file"
+msgstr "选择输出文件"
+
+# FormExportSettingsScript.cs(251)
+msgid "Text files (*.txt)|*.txt|All files (*.*)|*.*"
+msgstr "文本文件 (*.txt)|*.txt|所有文件 (*.*)|*.*"
+
+# FormExportSettingsSDD.cs(186)
+msgid "Output folder"
+msgstr "输出文件夹"
+
+# FormExportSettingsSDD.cs(187)
+msgid "File name (without an extension)"
+msgstr "文件名 (无扩展名)"
+
+# FormExportSettingsSDD.cs(191)
+msgid "SDD export settings"
+msgstr "SDD 输出设置"
+
+# FormExportSettingsSDD.cs(236)
+msgid "Select a folder to export"
+msgstr "选择输出文件夹"
+
+# FormFormatSelect.cs(124)
+msgid "Available export formats"
+msgstr "可使用的输出文件"
+
+# FormFormatSelect.cs(125)
+msgid "Custom script (JScript, VBScript)"
+msgstr "自定义脚本 (JScript, VBScript)"
+
+# FormFormatSelect.cs(126)
+msgid "Q-DAS (*.dfd, *.dfx)"
+msgstr "Q-DAS (*.dfd, *.dfx)"
+
+# FormFormatSelect.cs(127)
+msgid "Lighthouse Systems' SPC data file format (*.sdd)"
+msgstr "Lighthouse Systems' SPC 数据文件格式 (*.sdd)"
+
+# FormFormatSelect.cs(128)
+msgid "Comma separated values (*.csv)"
+msgstr "Comma Separated Values (*.csv)"
+
+# FormFormatSelect.cs(131)
+msgid "Select export format"
+msgstr "选择输出格式"
+
+# FormOperatorInput.cs(171)
+msgid "Name"
+msgstr "名称"
+
+# FormOperatorInput.cs(175)
+msgid "Operator input"
+msgstr "操作者输入"
+
+# FormSPCAddIn.cs(530)
+msgid "Export..."
+msgstr "输出..."
+
+# FormSPCAddIn.cs(531)
+msgid "Close"
+msgstr "关闭"
+
+# FormSPCAddIn.cs(532)
+msgid "Elements to export"
+msgstr "要输出的元素"
+
+# FormSPCAddIn.cs(533)
+msgid "Select unexported"
+msgstr "选择未输出的"
+
+# FormSPCAddIn.cs(534)
+msgid "Select latest"
+msgstr "选择最新的"
+
+# FormSPCAddIn.cs(535)
+# FormSPCAddIn.cs(543)
+msgid "Clear all"
+msgstr "清除所有"
+
+# FormSPCAddIn.cs(536)
+msgid "Select all reported"
+msgstr "选择所有报告"
+
+# FormSPCAddIn.cs(537)
+msgid "Measure"
+msgstr "测量"
+
+# FormSPCAddIn.cs(538)
+msgid "Extra information"
+msgstr "更多信息"
+
+# FormSPCAddIn.cs(539)
+msgid "Expand"
+msgstr "展开"
+
+# FormSPCAddIn.cs(540)
+msgid "Collapse"
+msgstr "崩溃"
+
+# FormSPCAddIn.cs(541)
+msgid "-"
+msgstr "-"
+
+# FormSPCAddIn.cs(542)
+msgid "Expand all"
+msgstr "展开所有"
+
+# FormSPCAddIn.cs(544)
+# FormSPCAddIn.cs(545)
+msgid "Select all"
+msgstr "选择所有"
+
+# FormSPCAddIn.cs(546)
+msgid "Measure part name"
+msgstr "测量零件名称"
+
+# FormSPCAddIn.cs(547)
+msgid "Settings..."
+msgstr "设置..."
+
+# FormSPCAddIn.cs(549)
+msgid "SPC Export Add-In [Base measure - \"{0}\"]"
+msgstr "SPC 输出附加模块 [Base measure - \"{0}\"]"
+
+# FormSPCAddIn.cs(1208)
+msgid "Coordinates"
+msgstr "坐标"
+
+# FormSPCAddIn.cs(1712)
+msgid "Invalid for item(s): {0}"
+msgstr "无效项目: {0}"
+
+# FormSPCAddIn.cs(1835)
+msgid "There are no measures to export.\nPlease select at least one."
+msgstr "没有要输出的测量。\n请至少选择一个测量。"
+
+# FormSPCAddIn.cs(1849)
+msgid "There are no variables to export.\nPlease select at least one."
+msgstr "没有要输出的变量。\n请至少选择一个变量。"
+
+# FormSPCAddIn.cs(1863)
+msgid "Some measures are invalid for selected variables.\nPlease check measure's extra information."
+msgstr "对已选变量某些测量无效。\n请检查测量的更多信息。"
+
+# FormSPCAddIn.cs(1893)
+msgid "Initial setup should be made before export."
+msgstr "输出前应首先进行初始设置。"
+
+# FormSPCAddIn.cs(1907)
+msgid "Export aborted by user"
+msgstr "输出被用户中断"
+
+# FormSPCAddIn.cs(1913)
+msgid "Export has failed because of lack of input data"
+msgstr "因为缺少输入数据，输出失败"
+
+# FormSPCAddIn.cs(1931)
+msgid "Data has been successfully exported"
+msgstr "已成功输出数据"
+
+# FormSPCAddIn.cs(1939)
+msgid "Error while exporting data"
+msgstr "输出数据时出现错误"
+
+# FormSPCAddIn.cs(2077)
+msgid " {0} items have not been selected because they are not applicable for active sort of measurement"
+msgstr " {0} 项目还未选择，因为它们不可应用到激活的测量。"
+
+# FormSPCAddIn.cs(2142)
+msgid "This measure have been exported before.\nRe-exporting measure may cause wrong statistic processing by SPC software.\n Are you sure you want to re-export data?"
+msgstr "前面已输出过此测量。\n重新输出测量可能导致SPC软件出现错误统计。\n真希望重新输出数据?"
+
+# FormSPCAddIn.cs(2248)
+msgid "There are already exported measures in the list.\nRe-exporting measures may cause some problems in statistics calculation process of SPC software.\nAre you sure you want to overwrite them all?"
+msgstr "已输出列表中的测量。\n重新输出测量可能导致SPC软件的统计计算出现问题。\n真希望所有覆盖它们?"
+
+# FormSPCAddIn.cs(2249)
+msgid "Already exported measures detected"
+msgstr "发现已输出的测量"
+
+# MacroManager.cs(30)
+msgid "Document name"
+msgstr "文档名称"
+
+# MacroManager.cs(40)
+msgid "Document name (short)"
+msgstr "文档名称(短)"
+
+# MacroManager.cs(51)
+msgid "Measure name"
+msgstr "测量名称"
+
+# ReportItemGDT.cs(115)
+msgid "Can't create MSXML2.DOMDocument object"
+msgstr "不能创建 MSXML2.DOMDocument 对象"
+
+# ScriptProcessorNetCS.cs(74)
+# ScriptProcessorNetJS.cs(63)
+# ScriptProcessorNetVB.cs(64)
+msgid "Line: {0}, Col: {1}, Error: {2} - {3}"
+msgstr "直线: {0}, Col: {1}, 误差: {2} - {3}"
+
+# ScriptProcessorNetCS.cs(75)
+# ScriptProcessorNetJS.cs(64)
+# ScriptProcessorNetVB.cs(65)
+msgid "Error while compiling script"
+msgstr "编译脚本时出错"
+
+# ScriptProcessorNetCS.cs(92)
+# ScriptProcessorNetJS.cs(81)
+# ScriptProcessorNetVB.cs(80)
+msgid "Can't find class {0} in script file"
+msgstr "不能在脚本中 {0} 查找类"
+
+# ExportSettingsQDAS.cs(458)
+msgid "Part number"
+msgstr "零件编号"
+
+# ExportSettingsQDAS.cs(463)
+msgid "Part description"
+msgstr "零件描述"
+
+# ExportSettingsQDAS.cs(468)
+msgid "Part abbreviation"
+msgstr "零件缩写"
+
+# ExportSettingsQDAS.cs(473)
+msgid "Part Amendment status"
+msgstr "零件修改状态"
+
+# ExportSettingsQDAS.cs(478)
+msgid "Product"
+msgstr "产品"
+
+# ExportSettingsQDAS.cs(483)
+msgid "Abbreviation Part no."
+msgstr "零件号缩写"
+
+# ExportSettingsQDAS.cs(488)
+msgid "Part type"
+msgstr "零件类型"
+
+# ExportSettingsQDAS.cs(493)
+msgid "Part code"
+msgstr "零件代码"
+
+# ExportSettingsQDAS.cs(498)
+msgid "Control item"
+msgstr "控制项目"
+
+# ExportSettingsQDAS.cs(503)
+msgid "Variant"
+msgstr "变量"
+
+# ExportSettingsQDAS.cs(508)
+msgid "ID number annex"
+msgstr "ID 编号附件"
+
+# ExportSettingsQDAS.cs(513)
+msgid "ID number index"
+msgstr "ID编号索引"
+
+# ExportSettingsQDAS.cs(518)
+msgid "Parts ID"
+msgstr "零件ID"
+
+# ExportSettingsQDAS.cs(523)
+msgid "Assembly part"
+msgstr "组件零件"
+
+# ExportSettingsQDAS.cs(528)
+msgid "Manufacturer Catalog"
+msgstr "制造商目录"
+
+# ExportSettingsQDAS.cs(533)
+msgid "Manufacturer No."
+msgstr "制造商编号"
+
+# ExportSettingsQDAS.cs(538)
+msgid "Manufacturer name"
+msgstr "制造商名称"
+
+# ExportSettingsQDAS.cs(543)
+msgid "Manufacturer number"
+msgstr "制造商编号"
+
+# ExportSettingsQDAS.cs(548)
+msgid "Materials Catalog"
+msgstr "材料目录"
+
+# ExportSettingsQDAS.cs(553)
+# ExportSettingsQDAS.cs(563)
+msgid "Material number"
+msgstr "材料编号"
+
+# ExportSettingsQDAS.cs(558)
+msgid "Material Description"
+msgstr "材料描述"
+
+# ExportSettingsQDAS.cs(568)
+msgid "Drawing Catalog"
+msgstr "绘图目录"
+
+# ExportSettingsQDAS.cs(573)
+msgid "Drawing number"
+msgstr "绘图编号"
+
+# ExportSettingsQDAS.cs(578)
+msgid "Drawing Amendment"
+msgstr "绘图修改"
+
+# ExportSettingsQDAS.cs(583)
+msgid "Drawing Index"
+msgstr "绘图索引"
+
+# ExportSettingsQDAS.cs(588)
+msgid "Drawing Number"
+msgstr "绘图编号"
+
+# ExportSettingsQDAS.cs(593)
+msgid "Drawing validation date"
+msgstr "绘图审核日期"
+
+# ExportSettingsQDAS.cs(598)
+msgid "Drawing name"
+msgstr "绘图名称"
+
+# ExportSettingsQDAS.cs(603)
+msgid "Basic drawing number"
+msgstr "基本绘图编号"
+
+# ExportSettingsQDAS.cs(608)
+# ExportSettingsQDAS.cs(623)
+msgid "Contractor Number"
+msgstr "承包商编号"
+
+# ExportSettingsQDAS.cs(613)
+msgid "Contractor Name"
+msgstr "承包商名称"
+
+# ExportSettingsQDAS.cs(618)
+msgid "Contract"
+msgstr "合同"
+
+# ExportSettingsQDAS.cs(628)
+# ExportSettingsQDAS.cs(638)
+msgid "Customer Number"
+msgstr "客户编号"
+
+# ExportSettingsQDAS.cs(633)
+msgid "Customer Name"
+msgstr "客户名称"
+
+# ExportSettingsQDAS.cs(643)
+# ExportSettingsQDAS.cs(653)
+msgid "Supplier Number"
+msgstr "供应商编号"
+
+# ExportSettingsQDAS.cs(648)
+msgid "Supplier Name"
+msgstr "供应商名称"
+
+# ExportSettingsQDAS.cs(658)
+# ExportSettingsQDAS.cs(668)
+msgid "Machine Number"
+msgstr "测量设备编号"
+
+# ExportSettingsQDAS.cs(663)
+msgid "Machine Description"
+msgstr "测量设备描述"
+
+# ExportSettingsQDAS.cs(673)
+msgid "Machine Location"
+msgstr "测量设备位置"
+
+# ExportSettingsQDAS.cs(678)
+msgid "Work Cycle"
+msgstr "工作循环"
+
+# ExportSettingsQDAS.cs(683)
+msgid "Plant Sector"
+msgstr "车间工段"
+
+# ExportSettingsQDAS.cs(688)
+msgid "Department"
+msgstr "部门"
+
+# ExportSettingsQDAS.cs(693)
+msgid "Workshop/sector"
+msgstr "车间/工段"
+
+# ExportSettingsQDAS.cs(698)
+msgid "Cost centre"
+msgstr "成本中心"
+
+# ExportSettingsQDAS.cs(703)
+msgid "Shift"
+msgstr "平移"
+
+# ExportSettingsQDAS.cs(708)
+msgid "Order number"
+msgstr "定购编号"
+
+# ExportSettingsQDAS.cs(713)
+msgid "Goods received number"
+msgstr "货物接收编号"
+
+# ExportSettingsQDAS.cs(718)
+msgid "Test Facility Number"
+msgstr "测试设备编号"
+
+# ExportSettingsQDAS.cs(723)
+msgid "Test Facility Description"
+msgstr "测试设备描述"
+
+# ExportSettingsQDAS.cs(728)
+msgid "Reason for Test"
+msgstr "测试原因"
+
+# ExportSettingsQDAS.cs(733)
+msgid "Test Begin"
+msgstr "测试开始"
+
+# ExportSettingsQDAS.cs(738)
+msgid "Test End"
+msgstr "测试结束"
+
+# ExportSettingsQDAS.cs(743)
+msgid "Test Location"
+msgstr "测试位置"
+
+# ExportSettingsQDAS.cs(748)
+msgid "Test Facility No."
+msgstr "测试设备编号"
+
+# ExportSettingsQDAS.cs(753)
+msgid "Inspection type"
+msgstr "检测类型"
+
+# ExportSettingsQDAS.cs(758)
+msgid "measurement type"
+msgstr "测量类型"
+
+# ExportSettingsQDAS.cs(763)
+msgid "Standard Number"
+msgstr "标准编号"
+
+# ExportSettingsQDAS.cs(768)
+msgid "Standard description"
+msgstr "标准描述"
+
+# ExportSettingsQDAS.cs(773)
+msgid "Standard number"
+msgstr "标准编号"
+
+# ExportSettingsQDAS.cs(778)
+# ExportSettingsQDAS.cs(788)
+msgid "Inspector number"
+msgstr "检测者工号"
+
+# ExportSettingsQDAS.cs(783)
+msgid "Inspector name"
+msgstr "检测者"
+
+# ExportSettingsQDAS.cs(793)
+msgid "Gage room"
+msgstr "测量室"
+
+# ExportSettingsQDAS.cs(798)
+msgid "Measuring program number"
+msgstr "测量程序编号"
+
+# ExportSettingsQDAS.cs(803)
+msgid "Measuring program version"
+msgstr "测量程序版本"
+
+# ExportSettingsQDAS.cs(808)
+msgid "Client"
+msgstr "客户"
+
+# ExportSettingsQDAS.cs(813)
+msgid "Test batch"
+msgstr "测试批量"
+
+# ExportSettingsQDAS.cs(818)
+msgid "plant"
+msgstr "车间"
+
+# ExportSettingsQDAS.cs(823)
+msgid "Production order"
+msgstr "产品定购"
+
+# ExportSettingsQDAS.cs(828)
+msgid "Test Plan Number Text"
+msgstr "测试激活编号文本"
+
+# ExportSettingsQDAS.cs(833)
+msgid "Test Plan Name"
+msgstr "测试计划名称"
+
+# ExportSettingsQDAS.cs(838)
+msgid "Test Plan Development Date"
+msgstr "测试计划开发日期"
+
+# ExportSettingsQDAS.cs(843)
+msgid "Test Plan Developer"
+msgstr "测试计划开发人员"
+
+# ExportSettingsQDAS.cs(848)
+msgid "Remark"
+msgstr "备注"
+
+# ExportSettingsQDAS.cs(858)
+msgid "attribute"
+msgstr "属性"
+
+# ExportSettingsQDAS.cs(863)
+msgid "Flag"
+msgstr "标志"
+
+# ExportSettingsQDAS.cs(868)
+msgid "Event"
+msgstr "事件"
+
+# ExportSettingsQDAS.cs(873)
+msgid "Batch number"
+msgstr "批量"
+
+# ExportSettingsQDAS.cs(878)
+msgid "Cavity number"
+msgstr "孔穴数"
+
+# ExportSettingsQDAS.cs(883)
+msgid "Operator name"
+msgstr "操作者姓名"
+
+# ExportSettingsQDAS.cs(888)
+msgid "Text"
+msgstr "文本"
+
+# ExportSettingsQDAS.cs(893)
+msgid "Machine number"
+msgstr "测量设备编号"
+
+# ExportSettingsQDAS.cs(898)
+msgid "Process parameter"
+msgstr "处理参数"
+
+# ExportSettingsQDAS.cs(903)
+msgid "Gage number"
+msgstr "量具号"
+
+# ExportSettingsQDAS.cs(908)
+msgid "Process parameter value"
+msgstr "处理参数值"
+
+# ExportSettingsQDAS.cs(913)
+msgid "Subgroup size"
+msgstr "子组尺寸"
+
+# ExportSettingsQDAS.cs(918)
+msgid "No. of errors"
+msgstr "错误数"
+
+# ExportSettingsQDAS.cs(923)
+msgid "Number < LSL"
+msgstr "数量 < LSL"
+
+# ExportSettingsQDAS.cs(928)
+msgid "Number > USL"
+msgstr "数量 > USL"
+
+# ExportSettingsQDAS.cs(933)
+msgid "Rejects"
+msgstr "拒绝"
+
+# ExportSettingsQDAS.cs(938)
+msgid "Re-work"
+msgstr "重新工作"
+
+# ExportSettingsQDAS.cs(943)
+msgid "Error class"
+msgstr "误差类别"
+
+# ExportSettingsQDAS.cs(948)
+msgid "Order"
+msgstr "顺序"
+

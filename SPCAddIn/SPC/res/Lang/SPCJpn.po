@@ -1,0 +1,1013 @@
+﻿# Encoding: UTF8
+# LocalisationSupport.cs(35)
+# SPCExporterCSV.cs(175)
+# FormExportSettingsQDAS.cs(1037)
+# FormSPCAddIn.cs(1894)
+msgid "Error"
+msgstr "ｴﾗｰ"
+
+# PIConnector.cs(177)
+msgid "Please open at least one document"
+msgstr "1 つ以上のﾄﾞｷｭﾒﾝﾄが開かれていなければなりません。"
+
+# PIConnector.cs(178)
+# PIConnector.cs(189)
+# StateKeeper.cs(266)
+# StateKeeper.cs(279)
+# FormSPCAddIn.cs(1836)
+# FormSPCAddIn.cs(1850)
+# FormSPCAddIn.cs(1864)
+# FormSPCAddIn.cs(1914)
+msgid "Warning"
+msgstr "警告"
+
+# PIConnector.cs(188)
+msgid "It is impossible to export from unsaved document.\nDo you want to save it now and continue to export?"
+msgstr "保存されていないﾄﾞｷｭﾒﾝﾄからｴｸｽﾎﾟｰﾄすることはできません。\n保存してｴｸｽﾎﾟｰﾄを続行しますか?"
+
+# PIConnector.cs(773)
+msgid "SPC Export\nOpen SPC export dialog\nOpen SPC export dialog"
+msgstr "SPC ｴｸｽﾎﾟｰﾄ\nSPC ｴｸｽﾎﾟｰﾄﾀﾞｲｱﾛｸﾞを開く\nSPC ｴｸｽﾎﾟｰﾄﾀﾞｲｱﾛｸﾞを開く"
+
+# PIConnectorBase.cs(124)
+msgid "{0} Exception caught."
+msgstr ""
+
+# PIConnectorBase.cs(126)
+msgid "Name Entry Error "
+msgstr ""
+
+# FieldEditors.cs(265)
+msgid "Undo"
+msgstr "元に戻す"
+
+# FieldEditors.cs(275)
+msgid "Cut"
+msgstr "切り取り"
+
+# FieldEditors.cs(285)
+msgid "Copy"
+msgstr "ｺﾋﾟｰ"
+
+# FieldEditors.cs(295)
+msgid "Paste"
+msgstr "貼り付け"
+
+# FieldEditors.cs(305)
+msgid "Insert Macro"
+msgstr "ﾏｸﾛ挿入"
+
+# FieldEditors.cs(396)
+# FieldEditors.cs(553)
+msgid "The value you have entered is incorrect"
+msgstr "入力した値は不正です。"
+
+# FieldEditors.cs(397)
+# FieldEditors.cs(554)
+# SPCExporterCSV.cs(105)
+# SPCExporterCSV.cs(115)
+# SPCExporterCSV.cs(125)
+# SPCExporterCSV.cs(145)
+# SPCExporterSDD.cs(215)
+# StateKeeper.cs(187)
+# FormExportSettingsQDAS.cs(1169)
+# FormSPCAddIn.cs(2080)
+# FormSPCAddIn.cs(2143)
+msgid "Attention"
+msgstr "ｱﾃﾝｼｮﾝ"
+
+# GathererElementsTree.cs(206)
+# GathererElementsTree.cs(209)
+# FormSPCAddIn.cs(1081)
+# FormSPCAddIn.cs(1084)
+msgid "IsAccepted"
+msgstr "IsAccepted"
+
+# SPCExporterCSV.cs(104)
+msgid "There are no measures to export"
+msgstr "ｴｸｽﾎﾟｰﾄ可能な測定がありません。"
+
+# SPCExporterCSV.cs(114)
+msgid "There are no variables to export"
+msgstr "ｴｸｽﾎﾟｰﾄ可能な変数がありません。"
+
+# SPCExporterCSV.cs(124)
+msgid "Destination file name not specified"
+msgstr "ﾃﾞｽﾃｨﾈｰｼｮﾝﾌｧｲﾙ名が指定されていません。"
+
+# SPCExporterCSV.cs(141)
+msgid "The item {0} is not measured for {1}.\nNo data will be written to the file until you measure required item,\n or remove it from export list"
+msgstr "ｱｲﾃﾑ {0} は {1} 用に測定されません。\n必要なｱｲﾃﾑを測定、または、ｱｲﾃﾑをｴｸｽﾎﾟｰﾄﾘｽﾄから削除するまで\nﾃﾞｰﾀはﾌｧｲﾙに書出されません。"
+
+# SPCExporterCSV.cs(172)
+msgid "Error occurred while opening file {0}. Probably file is locked by other application."
+msgstr "ﾌｧｲﾙ {0} を開く際にｴﾗｰが発生しました。ﾌｧｲﾙが他のｱﾌﾟﾘｹｰｼｮﾝにﾛｯｸされている可能性があります。"
+
+# SPCExporterSDD.cs(211)
+msgid "The item {0} is not valid for the measure {1}"
+msgstr "ｱｲﾃﾑ {0} は測定 {1} に対して無効です。"
+
+# SPCExporterSDD.cs(252)
+msgid "AcxSDDWrite ActiveX object is not installed or registered properly.\n"
+msgstr "AcxSDDWrite ActiveX ｵﾌﾞｼﾞｪｸﾄがｲﾝｽﾄｰﾙされていないか、適切に登録されていません。\n"
+
+# SPCExporterSDD.cs(253)
+msgid "It is usually contained in AcxSDDWriter.dll.\n"
+msgstr "通常 AcxSDDWriter.dll. に含まれています。\n"
+
+# SPCExporterSDD.cs(254)
+msgid "Please, contact Autodesk for assistance."
+msgstr "Autodesk にお問合せください。"
+
+# Catalog.cs(76)
+msgid "Customer catalog"
+msgstr "顧客ｶﾀﾛｸﾞ"
+
+# Catalog.cs(80)
+msgid "Manufacturer catalog"
+msgstr "製造者ｶﾀﾛｸﾞ"
+
+# Catalog.cs(84)
+msgid "Supplier catalog"
+msgstr "ｻﾌﾟﾗｲﾔｰｶﾀﾛｸﾞ"
+
+# Catalog.cs(88)
+msgid "Contract number"
+msgstr "契約番号"
+
+# Catalog.cs(92)
+msgid "Material catalog"
+msgstr "素材ｶﾀﾛｸﾞ"
+
+# Catalog.cs(96)
+msgid "Drawing catalog"
+msgstr "ﾄﾞﾛｰｲﾝｸﾞｶﾀﾛｸﾞ"
+
+# Catalog.cs(100)
+msgid "Machine catalog"
+msgstr "ﾏｼﾝｶﾀﾛｸﾞ"
+
+# Catalog.cs(104)
+msgid "Gage catalog"
+msgstr "ｹﾞｰｼﾞｶﾀﾛｸﾞ"
+
+# Catalog.cs(108)
+msgid "Units catalog"
+msgstr "単位ｶﾀﾛｸﾞ"
+
+# Catalog.cs(112)
+msgid "Operator catalog"
+msgstr "ｵﾍﾟﾚｰﾀｰｶﾀﾛｸﾞ"
+
+# Catalog.cs(116)
+msgid "Contractor catalog"
+msgstr "契約ｶﾀﾛｸﾞ"
+
+# Catalog.cs(120)
+msgid "Product catalog"
+msgstr "製品ｶﾀﾛｸﾞ"
+
+# Catalog.cs(124)
+msgid "Stuff catalog"
+msgstr "材料ｶﾀﾛｸﾞ"
+
+# Catalog.cs(128)
+msgid "Event catalog"
+msgstr "ｲﾍﾞﾝﾄｶﾀﾛｸﾞ"
+
+# Catalog.cs(132)
+msgid "Process parameter catalog"
+msgstr "処理ﾊﾟﾗﾒｰﾀｰｶﾀﾛｸﾞ"
+
+# Catalog.cs(136)
+msgid "Cavity catalog"
+msgstr "ｷｬﾋﾞﾃｨｶﾀﾛｸﾞ"
+
+# Catalog.cs(140)
+msgid "Unknown catalog"
+msgstr "不明なｶﾀﾛｸﾞ"
+
+# StateKeeper.cs(222)
+msgid "SPC Add-In couldn't create auxiliary file {0} next to PowerInspect document.\nThis file is used to remember what data has been recently exported.\n* Make sure you have enough rights\n* Move document file outside of Program Files folder if you have UAC enabled"
+msgstr "SPC ｱﾄﾞｲﾝは PowerInspect で使用される補助ﾌｧｲﾙ {0} を作成できませんでした。\nこのﾌｧｲﾙは最近ｴｸｽﾎﾟｰﾄされたﾃﾞｰﾀを記録します。\n* 十分な権限があるか確認してください。\n* ﾕｰｻﾞｰｱｶｳﾝﾄ制御設定 (UAC) が有効な場合、ﾄﾞｷｭﾒﾝﾄﾌｧｲﾙを Program Files ﾌｫﾙﾀﾞｰ外に移動してください。"
+
+# StateKeeper.cs(227)
+msgid "SPC Add-In couldn't create auxiliary file {0}"
+msgstr "SPC ｱﾄﾞｲﾝは補助ﾌｧｲﾙ {0} を作成できませんでした。"
+
+# StateKeeper.cs(265)
+msgid "SPC settings file associated with this project was created by previous version of SPC add-in.\nWould you like to try to load information from this file?"
+msgstr "このﾌﾟﾛｼﾞｪｸﾄに関する SPC 設定ﾌｧｲﾙは旧ﾊﾞｰｼﾞｮﾝの SPC ｱﾄﾞｲﾝで作成されています。\nこのﾌｧｲﾙから情報を読込みますか?"
+
+# StateKeeper.cs(278)
+msgid "SPC settings file associated with this project was created by newer version of SPC add-in\nIt's impossible to continue the work."
+msgstr "このﾌﾟﾛｼﾞｪｸﾄに関する SPC 設定ﾌｧｲﾙはより新しいﾊﾞｰｼﾞｮﾝの SPC ｱﾄﾞｲﾝで作成されています。\n作業を続行できません。"
+
+# FormCatalogItemEditor.cs(188)
+# FormExportSettingsSDD.cs(189)
+# FormFormatSelect.cs(129)
+# FormOperatorInput.cs(173)
+msgid "OK"
+msgstr "OK"
+
+# FormCatalogItemEditor.cs(189)
+# FormExportSettingsQDAS.cs(757)
+msgid "Number"
+msgstr "番号"
+
+# FormCatalogItemEditor.cs(190)
+# FormExportSettingsQDAS.cs(749)
+# FormExportSettingsQDAS.cs(758)
+# FormOperatorInput.cs(172)
+msgid "Value"
+msgstr "値"
+
+# FormCatalogItemEditor.cs(191)
+# FormExportSettingsCSV.cs(174)
+# FormExportSettingsQDAS.cs(731)
+# FormExportSettingsScript.cs(207)
+# FormExportSettingsSDD.cs(190)
+# FormFormatSelect.cs(130)
+# FormOperatorInput.cs(174)
+msgid "Cancel"
+msgstr "ｷｬﾝｾﾙ"
+
+# FormCatalogItemEditor.cs(192)
+msgid "Catalog item edit"
+msgstr "ｶﾀﾛｸﾞｱｲﾃﾑ編集"
+
+# FormExportSettingsCSV.cs(171)
+# FormExportSettingsScript.cs(205)
+msgid "Output file"
+msgstr "出力ﾌｧｲﾙ"
+
+# FormExportSettingsCSV.cs(172)
+# FormExportSettingsQDAS.cs(738)
+# FormExportSettingsScript.cs(203)
+# FormExportSettingsScript.cs(204)
+# FormExportSettingsSDD.cs(188)
+msgid "Browse..."
+msgstr "参照..."
+
+# FormExportSettingsCSV.cs(173)
+# FormExportSettingsQDAS.cs(730)
+# FormExportSettingsScript.cs(206)
+msgid "Save"
+msgstr "保存"
+
+# FormExportSettingsCSV.cs(175)
+msgid "CSV export settings"
+msgstr "CSV ｴｸｽﾎﾟｰﾄ設定"
+
+# FormExportSettingsCSV.cs(181)
+msgid "Select name and location of .CSV file"
+msgstr ".CSV ﾌｧｲﾙ名とﾛｹｰｼｮﾝ選択"
+
+# FormExportSettingsCSV.cs(182)
+msgid "Comma Separated Values file (*.csv)|*.csv|All files (*.*)|*.*"
+msgstr "ｺﾝﾏ区切りの値ﾌｧｲﾙ (*.csv)|*.csv|全ﾌｧｲﾙ (*.*)|*.*"
+
+# FormExportSettingsQDAS.cs(732)
+msgid "Export details"
+msgstr "ｴｸｽﾎﾟｰﾄ詳細"
+
+# FormExportSettingsQDAS.cs(733)
+msgid "DFX data"
+msgstr "DFX ﾃﾞｰﾀ"
+
+# FormExportSettingsQDAS.cs(734)
+msgid "Time format"
+msgstr "時間ﾌｫｰﾏｯﾄ"
+
+# FormExportSettingsQDAS.cs(735)
+msgid "Date format"
+msgstr "日付ﾌｫｰﾏｯﾄ"
+
+# FormExportSettingsQDAS.cs(736)
+msgid "Export date&&time of a measure"
+msgstr "測定日時ｴｸｽﾎﾟｰﾄ (&T)"
+
+# FormExportSettingsQDAS.cs(737)
+msgid "Output directory"
+msgstr "出力ﾃﾞｨﾚｸﾄﾘ"
+
+# FormExportSettingsQDAS.cs(739)
+msgid "DFD data"
+msgstr "DFD ﾃﾞｰﾀ"
+
+# FormExportSettingsQDAS.cs(740)
+msgid "Export structure information"
+msgstr "ｴｸｽﾎﾟｰﾄ構成情報"
+
+# FormExportSettingsQDAS.cs(741)
+# FormExportSettingsQDAS.cs(882)
+msgid "Show available fields list"
+msgstr "利用可能な項目ﾘｽﾄ表示"
+
+# FormExportSettingsQDAS.cs(742)
+msgid "Available"
+msgstr "利用可能"
+
+# FormExportSettingsQDAS.cs(743)
+msgid "<-- Remove"
+msgstr "<-- 削除"
+
+# FormExportSettingsQDAS.cs(744)
+msgid "Add -->"
+msgstr "追加 -->"
+
+# FormExportSettingsQDAS.cs(745)
+msgid "KXXXX"
+msgstr "KXXXX"
+
+# FormExportSettingsQDAS.cs(746)
+# FormExportSettingsQDAS.cs(748)
+msgid "Description"
+msgstr "説明"
+
+# FormExportSettingsQDAS.cs(747)
+msgid "Exported"
+msgstr "ｴｸｽﾎﾟｰﾄ済み"
+
+# FormExportSettingsQDAS.cs(750)
+msgid "Catalog management"
+msgstr "ｶﾀﾛｸﾞ管理"
+
+# FormExportSettingsQDAS.cs(751)
+msgid "Catalogs"
+msgstr "ｶﾀﾛｸﾞ"
+
+# FormExportSettingsQDAS.cs(752)
+msgid "Import from Q-DAS..."
+msgstr "Q-DAS からｲﾝﾎﾟｰﾄ..."
+
+# FormExportSettingsQDAS.cs(753)
+msgid "Catalog content"
+msgstr "ｶﾀﾛｸﾞ内容"
+
+# FormExportSettingsQDAS.cs(754)
+msgid "Delete"
+msgstr "削除"
+
+# FormExportSettingsQDAS.cs(755)
+msgid "Insert..."
+msgstr "挿入..."
+
+# FormExportSettingsQDAS.cs(756)
+msgid "Edit..."
+msgstr "編集..."
+
+# FormExportSettingsQDAS.cs(759)
+msgid "Use flat hierarchy"
+msgstr "平面ﾋｴﾗﾙｷｰ使用"
+
+# FormExportSettingsQDAS.cs(760)
+msgid "Q-DAS export settings"
+msgstr "Q-DAS ｴｸｽﾎﾟｰﾄ設定"
+
+# FormExportSettingsQDAS.cs(787)
+msgid "Select directory where exported DFD & DFX files should locate"
+msgstr "ｴｸｽﾎﾟｰﾄした DFD / DFX ﾌｧｲﾙのﾃﾞｨﾚｸﾄﾘ選択"
+
+# FormExportSettingsQDAS.cs(880)
+msgid "Hide available fields list"
+msgstr "利用可能な項目ﾘｽﾄ非表示"
+
+# FormExportSettingsQDAS.cs(1029)
+msgid "Select name and location of .DFD file"
+msgstr ".DFD ﾌｧｲﾙ名とﾛｹｰｼｮﾝ選択"
+
+# FormExportSettingsQDAS.cs(1030)
+msgid "DFD file (*.DFD)|*.DFD|All files (*.*)|*.*"
+msgstr "DFD ﾌｧｲﾙ (*.DFD)|*.DFD|全ﾌｧｲﾙ (*.*)|*.*"
+
+# FormExportSettingsQDAS.cs(1036)
+msgid "Failed to load catalog information.\nPlease make sure you have selected correct file."
+msgstr "ｶﾀﾛｸﾞ情報の読込みに失敗しました。\n適切なﾌｧｲﾙが選択されているか確認してください。"
+
+# FormExportSettingsQDAS.cs(1103)
+msgid "Edit catalog item"
+msgstr "ｶﾀﾛｸﾞｱｲﾃﾑ編集"
+
+# FormExportSettingsQDAS.cs(1130)
+msgid "Delete {0} items?"
+msgstr "{0} ｱｲﾃﾑを削除しますか?"
+
+# FormExportSettingsQDAS.cs(1133)
+msgid "Confirmation"
+msgstr "確認"
+
+# FormExportSettingsQDAS.cs(1160)
+msgid "Create catalog item"
+msgstr "ｶﾀﾛｸﾞｱｲﾃﾑ作成"
+
+# FormExportSettingsQDAS.cs(1168)
+msgid "Item with same number and value already exists"
+msgstr "同じ番号と値のｱｲﾃﾑが既存します。"
+
+# FormExportSettingsScript.cs(202)
+msgid "Script file"
+msgstr "ｽｸﾘﾌﾟﾄﾌｧｲﾙ"
+
+# FormExportSettingsScript.cs(208)
+msgid "Script export settings"
+msgstr "ｽｸﾘﾌﾟﾄｴｸｽﾎﾟｰﾄ設定"
+
+# FormExportSettingsScript.cs(227)
+msgid "Select script file to process"
+msgstr "処理するｽｸﾘﾌﾟﾄﾌｧｲﾙ選択"
+
+# FormExportSettingsScript.cs(228)
+msgid "VBScript files (*.vbs)|*.vbs|JScript files (*.js)|*.js|All files (*.*)|*.*"
+msgstr "VBScript ﾌｧｲﾙ (*.vbs)|*.vbs|JScript files (*.js)|*.js|全ﾌｧｲﾙ (*.*)|*.*"
+
+# FormExportSettingsScript.cs(250)
+msgid "Select output file"
+msgstr "出力ﾌｧｲﾙ選択"
+
+# FormExportSettingsScript.cs(251)
+msgid "Text files (*.txt)|*.txt|All files (*.*)|*.*"
+msgstr "ﾃｷｽﾄﾌｧｲﾙ (*.txt)|*.txt|全ﾌｧｲﾙ (*.*)|*.*"
+
+# FormExportSettingsSDD.cs(186)
+msgid "Output folder"
+msgstr "出力ﾌｫﾙﾀﾞｰ"
+
+# FormExportSettingsSDD.cs(187)
+msgid "File name (without an extension)"
+msgstr "ﾌｧｲﾙ名 (拡張子なし)"
+
+# FormExportSettingsSDD.cs(191)
+msgid "SDD export settings"
+msgstr "SDD ｴｸｽﾎﾟｰﾄ設定"
+
+# FormExportSettingsSDD.cs(236)
+msgid "Select a folder to export"
+msgstr "ｴｸｽﾎﾟｰﾄするﾌｫﾙﾀﾞｰ選択"
+
+# FormFormatSelect.cs(124)
+msgid "Available export formats"
+msgstr "利用可能なｴｸｽﾎﾟｰﾄﾌｫｰﾏｯﾄ"
+
+# FormFormatSelect.cs(125)
+msgid "Custom script (JScript, VBScript)"
+msgstr "ｶｽﾀﾑｽｸﾘﾌﾟﾄ (JScript、VBScript)"
+
+# FormFormatSelect.cs(126)
+msgid "Q-DAS (*.dfd, *.dfx)"
+msgstr "Q-DAS (*.dfd、*.dfx)"
+
+# FormFormatSelect.cs(127)
+msgid "Lighthouse Systems' SPC data file format (*.sdd)"
+msgstr "Lighthouse ｼｽﾃﾑ' SPC ﾃﾞｰﾀﾌｧｲﾙﾌｫｰﾏｯﾄ (*.sdd)"
+
+# FormFormatSelect.cs(128)
+msgid "Comma separated values (*.csv)"
+msgstr "ｺﾝﾏ区切りの値 (*.csv)"
+
+# FormFormatSelect.cs(131)
+msgid "Select export format"
+msgstr "ｴｸｽﾎﾟｰﾄﾌｫｰﾏｯﾄ選択"
+
+# FormOperatorInput.cs(171)
+msgid "Name"
+msgstr "名前"
+
+# FormOperatorInput.cs(175)
+msgid "Operator input"
+msgstr "ｵﾍﾟﾚｰﾀｰ入力"
+
+# FormSPCAddIn.cs(530)
+msgid "Export..."
+msgstr "ｴｸｽﾎﾟｰﾄ..."
+
+# FormSPCAddIn.cs(531)
+msgid "Close"
+msgstr "閉じる"
+
+# FormSPCAddIn.cs(532)
+msgid "Elements to export"
+msgstr "ｴｸｽﾎﾟｰﾄするｴﾚﾒﾝﾄ"
+
+# FormSPCAddIn.cs(533)
+msgid "Select unexported"
+msgstr "ｴｸｽﾎﾟｰﾄされていないものを選択"
+
+# FormSPCAddIn.cs(534)
+msgid "Select latest"
+msgstr "最新選択"
+
+# FormSPCAddIn.cs(535)
+# FormSPCAddIn.cs(543)
+msgid "Clear all"
+msgstr "全てｸﾘｱｰ"
+
+# FormSPCAddIn.cs(536)
+msgid "Select all reported"
+msgstr "ﾚﾎﾟｰﾄ済みを全て選択"
+
+# FormSPCAddIn.cs(537)
+msgid "Measure"
+msgstr "測定"
+
+# FormSPCAddIn.cs(538)
+msgid "Extra information"
+msgstr "追加情報"
+
+# FormSPCAddIn.cs(539)
+msgid "Expand"
+msgstr "展開"
+
+# FormSPCAddIn.cs(540)
+msgid "Collapse"
+msgstr "折畳み"
+
+# FormSPCAddIn.cs(541)
+msgid "-"
+msgstr "-"
+
+# FormSPCAddIn.cs(542)
+msgid "Expand all"
+msgstr "全て展開"
+
+# FormSPCAddIn.cs(544)
+# FormSPCAddIn.cs(545)
+msgid "Select all"
+msgstr "全て選択"
+
+# FormSPCAddIn.cs(546)
+msgid "Measure part name"
+msgstr "測定ﾊﾟｰﾂ名"
+
+# FormSPCAddIn.cs(547)
+msgid "Settings..."
+msgstr "設定..."
+
+# FormSPCAddIn.cs(549)
+msgid "SPC Export Add-In [Base measure - \"{0}\"]"
+msgstr "SPC ｴｸｽﾎﾟｰﾄｱﾄﾞｲﾝ [ﾍﾞｰｽ測定 - \"{0}\"]"
+
+# FormSPCAddIn.cs(1208)
+msgid "Coordinates"
+msgstr "座標"
+
+# FormSPCAddIn.cs(1712)
+msgid "Invalid for item(s): {0}"
+msgstr "ｱｲﾃﾑに対して無効: {0}"
+
+# FormSPCAddIn.cs(1835)
+msgid "There are no measures to export.\nPlease select at least one."
+msgstr "ｴｸｽﾎﾟｰﾄ可能な測定がありません。\n1 つ以上選択してください。"
+
+# FormSPCAddIn.cs(1849)
+msgid "There are no variables to export.\nPlease select at least one."
+msgstr "ｴｸｽﾎﾟｰﾄ可能な変数がありません。\n1 つ以上選択してください。"
+
+# FormSPCAddIn.cs(1863)
+msgid "Some measures are invalid for selected variables.\nPlease check measure's extra information."
+msgstr "選択した変数に対して無効な測定があります。\n測定の追加情報を確認してください。"
+
+# FormSPCAddIn.cs(1893)
+msgid "Initial setup should be made before export."
+msgstr "ｴｸｽﾎﾟｰﾄ前に初期設定が行われていなければなりません。"
+
+# FormSPCAddIn.cs(1907)
+msgid "Export aborted by user"
+msgstr "ﾕｰｻﾞｰによりｴｸｽﾎﾟｰﾄが中断されました。"
+
+# FormSPCAddIn.cs(1913)
+msgid "Export has failed because of lack of input data"
+msgstr "入力ﾃﾞｰﾀ不足のためｴｸｽﾎﾟｰﾄに失敗しました。"
+
+# FormSPCAddIn.cs(1931)
+msgid "Data has been successfully exported"
+msgstr "ﾃﾞｰﾀが適切にｴｸｽﾎﾟｰﾄされました。"
+
+# FormSPCAddIn.cs(1939)
+msgid "Error while exporting data"
+msgstr "ﾃﾞｰﾀｴｸｽﾎﾟｰﾄ中のｴﾗｰ"
+
+# FormSPCAddIn.cs(2077)
+msgid " {0} items have not been selected because they are not applicable for active sort of measurement"
+msgstr "ｱｸﾃｨﾌﾞ測定に適用不可のため、{0} ｱｲﾃﾑが選択されませんでした。"
+
+# FormSPCAddIn.cs(2142)
+msgid "This measure have been exported before.\nRe-exporting measure may cause wrong statistic processing by SPC software.\n Are you sure you want to re-export data?"
+msgstr "この測定は以前ｴｸｽﾎﾟｰﾄされています。\n測定の再ｴｸｽﾎﾟｰﾄは SPC ｿﾌﾄｳｪｱによる不正な統計処理の原因になる可能性があります。\nﾃﾞｰﾀを再ｴｸｽﾎﾟｰﾄしますか?"
+
+# FormSPCAddIn.cs(2248)
+msgid "There are already exported measures in the list.\nRe-exporting measures may cause some problems in statistics calculation process of SPC software.\nAre you sure you want to overwrite them all?"
+msgstr "ﾘｽﾄ内にｴｸｽﾎﾟｰﾄ済みの測定があります。\n測定の再ｴｸｽﾎﾟｰﾄは SPC ｿﾌﾄｳｪｱによる不正な統計処理の原因になる可能性があります。\n全て上書きしますか?"
+
+# FormSPCAddIn.cs(2249)
+msgid "Already exported measures detected"
+msgstr "ｴｸｽﾎﾟｰﾄ済みの測定ﾃﾞｰﾀが検出されました。"
+
+# MacroManager.cs(30)
+msgid "Document name"
+msgstr "ﾄﾞｷｭﾒﾝﾄ名"
+
+# MacroManager.cs(40)
+msgid "Document name (short)"
+msgstr "ﾄﾞｷｭﾒﾝﾄ名 (省略)"
+
+# MacroManager.cs(51)
+msgid "Measure name"
+msgstr "測定名"
+
+# ReportItemGDT.cs(115)
+msgid "Can't create MSXML2.DOMDocument object"
+msgstr "MSXML2.DOMDocument ｵﾌﾞｼﾞｪｸﾄを作成できません。"
+
+# ScriptProcessorNetCS.cs(74)
+# ScriptProcessorNetJS.cs(63)
+# ScriptProcessorNetVB.cs(64)
+msgid "Line: {0}, Col: {1}, Error: {2} - {3}"
+msgstr "ﾗｲﾝ: {0}, Col: {1}, ｴﾗｰ: {2} - {3}"
+
+# ScriptProcessorNetCS.cs(75)
+# ScriptProcessorNetJS.cs(64)
+# ScriptProcessorNetVB.cs(65)
+msgid "Error while compiling script"
+msgstr "ｽｸﾘﾌﾟﾄｺﾝﾊﾟｲﾙ中のｴﾗｰ"
+
+# ScriptProcessorNetCS.cs(92)
+# ScriptProcessorNetJS.cs(81)
+# ScriptProcessorNetVB.cs(80)
+msgid "Can't find class {0} in script file"
+msgstr "ｽｸﾘﾌﾟﾄﾌｧｲﾙ内にｸﾗｽ{0} を検出できません。"
+
+# ExportSettingsQDAS.cs(458)
+msgid "Part number"
+msgstr "ﾊﾟｰﾂ番号"
+
+# ExportSettingsQDAS.cs(463)
+msgid "Part description"
+msgstr "ﾊﾟｰﾂ説明"
+
+# ExportSettingsQDAS.cs(468)
+msgid "Part abbreviation"
+msgstr "ﾊﾟｰﾂ (略記)"
+
+# ExportSettingsQDAS.cs(473)
+msgid "Part Amendment status"
+msgstr "ﾊﾟｰﾂ修正ｽﾃｰﾀｽ"
+
+# ExportSettingsQDAS.cs(478)
+msgid "Product"
+msgstr "製品"
+
+# ExportSettingsQDAS.cs(483)
+msgid "Abbreviation Part no."
+msgstr "ﾊﾟｰﾂ番号 (略記)"
+
+# ExportSettingsQDAS.cs(488)
+msgid "Part type"
+msgstr "ﾊﾟｰﾂﾀｲﾌﾟ"
+
+# ExportSettingsQDAS.cs(493)
+msgid "Part code"
+msgstr "ﾊﾟｰﾂｺｰﾄﾞ"
+
+# ExportSettingsQDAS.cs(498)
+msgid "Control item"
+msgstr "ｺﾝﾄﾛｰﾙｱｲﾃﾑ"
+
+# ExportSettingsQDAS.cs(503)
+msgid "Variant"
+msgstr "変形"
+
+# ExportSettingsQDAS.cs(508)
+msgid "ID number annex"
+msgstr "ID 番号添付"
+
+# ExportSettingsQDAS.cs(513)
+msgid "ID number index"
+msgstr "ID 番号ｲﾝﾃﾞｯｸｽ"
+
+# ExportSettingsQDAS.cs(518)
+msgid "Parts ID"
+msgstr "ﾊﾟｰﾂ ID"
+
+# ExportSettingsQDAS.cs(523)
+msgid "Assembly part"
+msgstr "ｱｾﾝﾌﾞﾘﾊﾟｰﾂ"
+
+# ExportSettingsQDAS.cs(528)
+msgid "Manufacturer Catalog"
+msgstr "製造者ｶﾀﾛｸﾞ"
+
+# ExportSettingsQDAS.cs(533)
+msgid "Manufacturer No."
+msgstr "製造者番号"
+
+# ExportSettingsQDAS.cs(538)
+msgid "Manufacturer name"
+msgstr "製造者名"
+
+# ExportSettingsQDAS.cs(543)
+msgid "Manufacturer number"
+msgstr "製造者番号"
+
+# ExportSettingsQDAS.cs(548)
+msgid "Materials Catalog"
+msgstr "ﾏﾃﾘｱﾙｶﾀﾛｸﾞ"
+
+# ExportSettingsQDAS.cs(553)
+# ExportSettingsQDAS.cs(563)
+msgid "Material number"
+msgstr "素材番号"
+
+# ExportSettingsQDAS.cs(558)
+msgid "Material Description"
+msgstr "素材説明"
+
+# ExportSettingsQDAS.cs(568)
+msgid "Drawing Catalog"
+msgstr "ﾄﾞﾛｰｲﾝｸﾞｶﾀﾛｸﾞ"
+
+# ExportSettingsQDAS.cs(573)
+msgid "Drawing number"
+msgstr "ﾄﾞﾛｰｲﾝｸﾞ番号"
+
+# ExportSettingsQDAS.cs(578)
+msgid "Drawing Amendment"
+msgstr "ﾄﾞﾛｰｲﾝｸﾞ修正"
+
+# ExportSettingsQDAS.cs(583)
+msgid "Drawing Index"
+msgstr "ﾄﾞﾛｰｲﾝｸﾞｲﾝﾃﾞｯｸｽ"
+
+# ExportSettingsQDAS.cs(588)
+msgid "Drawing Number"
+msgstr "ﾄﾞﾛｰｲﾝｸﾞ番号"
+
+# ExportSettingsQDAS.cs(593)
+msgid "Drawing validation date"
+msgstr "ﾄﾞﾛｰｲﾝｸﾞ認証日"
+
+# ExportSettingsQDAS.cs(598)
+msgid "Drawing name"
+msgstr "ﾄﾞﾛｰｲﾝｸﾞ名"
+
+# ExportSettingsQDAS.cs(603)
+msgid "Basic drawing number"
+msgstr "基本ﾄﾞﾛｰｲﾝｸﾞ番号"
+
+# ExportSettingsQDAS.cs(608)
+# ExportSettingsQDAS.cs(623)
+msgid "Contractor Number"
+msgstr "契約番号"
+
+# ExportSettingsQDAS.cs(613)
+msgid "Contractor Name"
+msgstr "契約名"
+
+# ExportSettingsQDAS.cs(618)
+msgid "Contract"
+msgstr "契約"
+
+# ExportSettingsQDAS.cs(628)
+# ExportSettingsQDAS.cs(638)
+msgid "Customer Number"
+msgstr "顧客番号"
+
+# ExportSettingsQDAS.cs(633)
+msgid "Customer Name"
+msgstr "顧客名"
+
+# ExportSettingsQDAS.cs(643)
+# ExportSettingsQDAS.cs(653)
+msgid "Supplier Number"
+msgstr "ｻﾌﾟﾗｲﾔｰ番号"
+
+# ExportSettingsQDAS.cs(648)
+msgid "Supplier Name"
+msgstr "ｻﾌﾟﾗｲﾔｰ名"
+
+# ExportSettingsQDAS.cs(658)
+# ExportSettingsQDAS.cs(668)
+msgid "Machine Number"
+msgstr "ﾏｼﾝ番号"
+
+# ExportSettingsQDAS.cs(663)
+msgid "Machine Description"
+msgstr "ﾏｼﾝ説明"
+
+# ExportSettingsQDAS.cs(673)
+msgid "Machine Location"
+msgstr "ﾏｼﾝﾛｹｰｼｮﾝ"
+
+# ExportSettingsQDAS.cs(678)
+msgid "Work Cycle"
+msgstr "ﾜｰｸｻｲｸﾙ"
+
+# ExportSettingsQDAS.cs(683)
+msgid "Plant Sector"
+msgstr "ﾌﾟﾗﾝﾄｾｸﾀｰ"
+
+# ExportSettingsQDAS.cs(688)
+msgid "Department"
+msgstr "部署"
+
+# ExportSettingsQDAS.cs(693)
+msgid "Workshop/sector"
+msgstr "ﾜｰｸｼｮｯﾌﾟ / ｾｸﾀｰ"
+
+# ExportSettingsQDAS.cs(698)
+msgid "Cost centre"
+msgstr "ｺｽﾄｾﾝﾀｰ"
+
+# ExportSettingsQDAS.cs(703)
+msgid "Shift"
+msgstr "移動"
+
+# ExportSettingsQDAS.cs(708)
+msgid "Order number"
+msgstr "ｵｰﾀﾞｰ番号"
+
+# ExportSettingsQDAS.cs(713)
+msgid "Goods received number"
+msgstr "ｸﾞｯｽﾞ取得番号"
+
+# ExportSettingsQDAS.cs(718)
+msgid "Test Facility Number"
+msgstr "ﾃｽﾄ設備番号"
+
+# ExportSettingsQDAS.cs(723)
+msgid "Test Facility Description"
+msgstr "ﾃｽﾄ設備説明"
+
+# ExportSettingsQDAS.cs(728)
+msgid "Reason for Test"
+msgstr "ﾃｽﾄ理由"
+
+# ExportSettingsQDAS.cs(733)
+msgid "Test Begin"
+msgstr "ﾃｽﾄ開始"
+
+# ExportSettingsQDAS.cs(738)
+msgid "Test End"
+msgstr "ﾃｽﾄ終了"
+
+# ExportSettingsQDAS.cs(743)
+msgid "Test Location"
+msgstr "ﾃｽﾄﾛｹｰｼｮﾝ"
+
+# ExportSettingsQDAS.cs(748)
+msgid "Test Facility No."
+msgstr "ﾃｽﾄ設備番号"
+
+# ExportSettingsQDAS.cs(753)
+msgid "Inspection type"
+msgstr "検査ﾀｲﾌﾟ"
+
+# ExportSettingsQDAS.cs(758)
+msgid "measurement type"
+msgstr "測定ﾀｲﾌﾟ"
+
+# ExportSettingsQDAS.cs(763)
+msgid "Standard Number"
+msgstr "標準番号"
+
+# ExportSettingsQDAS.cs(768)
+msgid "Standard description"
+msgstr "標準説明"
+
+# ExportSettingsQDAS.cs(773)
+msgid "Standard number"
+msgstr "標準番号"
+
+# ExportSettingsQDAS.cs(778)
+# ExportSettingsQDAS.cs(788)
+msgid "Inspector number"
+msgstr "検査員番号"
+
+# ExportSettingsQDAS.cs(783)
+msgid "Inspector name"
+msgstr "検査員名"
+
+# ExportSettingsQDAS.cs(793)
+msgid "Gage room"
+msgstr "ｹﾞｰｼﾞﾙｰﾑ"
+
+# ExportSettingsQDAS.cs(798)
+msgid "Measuring program number"
+msgstr "測定ﾌﾟﾛｸﾞﾗﾑ番号"
+
+# ExportSettingsQDAS.cs(803)
+msgid "Measuring program version"
+msgstr "測定ﾌﾟﾛｸﾞﾗﾑﾊﾞｰｼﾞｮﾝ"
+
+# ExportSettingsQDAS.cs(808)
+msgid "Client"
+msgstr "ｸﾗｲｱﾝﾄ"
+
+# ExportSettingsQDAS.cs(813)
+msgid "Test batch"
+msgstr "ﾃｽﾄﾊﾞｯﾁ"
+
+# ExportSettingsQDAS.cs(818)
+msgid "plant"
+msgstr "ﾌﾟﾗﾝﾄ"
+
+# ExportSettingsQDAS.cs(823)
+msgid "Production order"
+msgstr "製品ｵｰﾀﾞｰ"
+
+# ExportSettingsQDAS.cs(828)
+msgid "Test Plan Number Text"
+msgstr "ﾃｽﾄﾌﾟﾗﾝ番号ﾃｷｽﾄ"
+
+# ExportSettingsQDAS.cs(833)
+msgid "Test Plan Name"
+msgstr "ﾃｽﾄﾌﾟﾗﾝ名"
+
+# ExportSettingsQDAS.cs(838)
+msgid "Test Plan Development Date"
+msgstr "ﾃｽﾄﾌﾟﾗﾝ開発日"
+
+# ExportSettingsQDAS.cs(843)
+msgid "Test Plan Developer"
+msgstr "ﾃｽﾄﾌﾟﾗﾝ開発者"
+
+# ExportSettingsQDAS.cs(848)
+msgid "Remark"
+msgstr "再ﾏｰｸ"
+
+# ExportSettingsQDAS.cs(858)
+msgid "attribute"
+msgstr "属性"
+
+# ExportSettingsQDAS.cs(863)
+msgid "Flag"
+msgstr "ﾌﾗｸﾞ"
+
+# ExportSettingsQDAS.cs(868)
+msgid "Event"
+msgstr "ｲﾍﾞﾝﾄ"
+
+# ExportSettingsQDAS.cs(873)
+msgid "Batch number"
+msgstr "ﾊﾞｯﾁ番号"
+
+# ExportSettingsQDAS.cs(878)
+msgid "Cavity number"
+msgstr "ｷｬﾋﾞﾃｨ番号"
+
+# ExportSettingsQDAS.cs(883)
+msgid "Operator name"
+msgstr "ｵﾍﾟﾚｰﾀｰ名"
+
+# ExportSettingsQDAS.cs(888)
+msgid "Text"
+msgstr "ﾃｷｽﾄ"
+
+# ExportSettingsQDAS.cs(893)
+msgid "Machine number"
+msgstr "ﾏｼﾝ番号"
+
+# ExportSettingsQDAS.cs(898)
+msgid "Process parameter"
+msgstr "処理ﾊﾟﾗﾒｰﾀｰ"
+
+# ExportSettingsQDAS.cs(903)
+msgid "Gage number"
+msgstr "ｹﾞｰｼﾞ番号"
+
+# ExportSettingsQDAS.cs(908)
+msgid "Process parameter value"
+msgstr "処理ﾊﾟﾗﾒｰﾀｰ値"
+
+# ExportSettingsQDAS.cs(913)
+msgid "Subgroup size"
+msgstr "ｻﾌﾞｸﾞﾙｰﾌﾟｻｲｽﾞ"
+
+# ExportSettingsQDAS.cs(918)
+msgid "No. of errors"
+msgstr "ｴﾗｰ数"
+
+# ExportSettingsQDAS.cs(923)
+msgid "Number < LSL"
+msgstr "数 < LSL"
+
+# ExportSettingsQDAS.cs(928)
+msgid "Number > USL"
+msgstr "数 > USL"
+
+# ExportSettingsQDAS.cs(933)
+msgid "Rejects"
+msgstr "不良品"
+
+# ExportSettingsQDAS.cs(938)
+msgid "Re-work"
+msgstr "再作業"
+
+# ExportSettingsQDAS.cs(943)
+msgid "Error class"
+msgstr "ｴﾗｰｸﾗｽ"
+
+# ExportSettingsQDAS.cs(948)
+msgid "Order"
+msgstr "ｵｰﾀﾞｰ"
+

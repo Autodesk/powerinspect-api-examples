@@ -1,0 +1,1013 @@
+﻿# Encoding: UTF8
+# LocalisationSupport.cs(35)
+# SPCExporterCSV.cs(175)
+# FormExportSettingsQDAS.cs(1037)
+# FormSPCAddIn.cs(1894)
+msgid "Error"
+msgstr "에러"
+
+# PIConnector.cs(177)
+msgid "Please open at least one document"
+msgstr "하나 이상의 문서를 여십시오."
+
+# PIConnector.cs(178)
+# PIConnector.cs(189)
+# StateKeeper.cs(266)
+# StateKeeper.cs(279)
+# FormSPCAddIn.cs(1836)
+# FormSPCAddIn.cs(1850)
+# FormSPCAddIn.cs(1864)
+# FormSPCAddIn.cs(1914)
+msgid "Warning"
+msgstr "경고"
+
+# PIConnector.cs(188)
+msgid "It is impossible to export from unsaved document.\nDo you want to save it now and continue to export?"
+msgstr "저장되지 않은 문서에서는 내보낼 수 없습니다.\n지금 저장하고 계속해서 내보내시겠습니까?"
+
+# PIConnector.cs(773)
+msgid "SPC Export\nOpen SPC export dialog\nOpen SPC export dialog"
+msgstr "SPC 내보내기\nSPC 내보내기 대화상자 열기\nSPC 내보내기 대화상자 열기"
+
+# PIConnectorBase.cs(124)
+msgid "{0} Exception caught."
+msgstr ""
+
+# PIConnectorBase.cs(126)
+msgid "Name Entry Error "
+msgstr ""
+
+# FieldEditors.cs(265)
+msgid "Undo"
+msgstr "실행 취소"
+
+# FieldEditors.cs(275)
+msgid "Cut"
+msgstr "잘라내기"
+
+# FieldEditors.cs(285)
+msgid "Copy"
+msgstr "복사"
+
+# FieldEditors.cs(295)
+msgid "Paste"
+msgstr "붙여넣기"
+
+# FieldEditors.cs(305)
+msgid "Insert Macro"
+msgstr "매크로 삽입"
+
+# FieldEditors.cs(396)
+# FieldEditors.cs(553)
+msgid "The value you have entered is incorrect"
+msgstr "입력한 값이 잘못되었습니다."
+
+# FieldEditors.cs(397)
+# FieldEditors.cs(554)
+# SPCExporterCSV.cs(105)
+# SPCExporterCSV.cs(115)
+# SPCExporterCSV.cs(125)
+# SPCExporterCSV.cs(145)
+# SPCExporterSDD.cs(215)
+# StateKeeper.cs(187)
+# FormExportSettingsQDAS.cs(1169)
+# FormSPCAddIn.cs(2080)
+# FormSPCAddIn.cs(2143)
+msgid "Attention"
+msgstr "주의"
+
+# GathererElementsTree.cs(206)
+# GathererElementsTree.cs(209)
+# FormSPCAddIn.cs(1081)
+# FormSPCAddIn.cs(1084)
+msgid "IsAccepted"
+msgstr "IsAccepted"
+
+# SPCExporterCSV.cs(104)
+msgid "There are no measures to export"
+msgstr "내보낼 측정이 없습니다."
+
+# SPCExporterCSV.cs(114)
+msgid "There are no variables to export"
+msgstr "내보낼 변수가 없습니다."
+
+# SPCExporterCSV.cs(124)
+msgid "Destination file name not specified"
+msgstr "대상 파일 이름이 지정되지 않았습니다."
+
+# SPCExporterCSV.cs(141)
+msgid "The item {0} is not measured for {1}.\nNo data will be written to the file until you measure required item,\n or remove it from export list"
+msgstr "{1}에 대해 {0} 항목이 측정되지 않았습니다.\n필요한 항목을 측정해야 파일에 데이터가 기록됩니다.\n 아니면 내보내기 목록에서 해당 항목을 제거하십시오."
+
+# SPCExporterCSV.cs(172)
+msgid "Error occurred while opening file {0}. Probably file is locked by other application."
+msgstr "{0} 파일을 여는 중에 오류가 발생했습니다. 다른 응용프로그램에서 파일을 잠갔을 수 있습니다."
+
+# SPCExporterSDD.cs(211)
+msgid "The item {0} is not valid for the measure {1}"
+msgstr "{1} 측정에 대해 {0} 항목이 유효하지 않습니다."
+
+# SPCExporterSDD.cs(252)
+msgid "AcxSDDWrite ActiveX object is not installed or registered properly.\n"
+msgstr "AcxSDDWrite ActiveX 객체가 설치되지 않았거나 제대로 등록되지 않았습니다.\n"
+
+# SPCExporterSDD.cs(253)
+msgid "It is usually contained in AcxSDDWriter.dll.\n"
+msgstr "이 객체는 일반적으로 AcxSDDWriter.dll 포함되어 있습니다.\n"
+
+# SPCExporterSDD.cs(254)
+msgid "Please, contact Autodesk for assistance."
+msgstr "Autodesk에 지원을 요청하십시오."
+
+# Catalog.cs(76)
+msgid "Customer catalog"
+msgstr "고객 카탈로그"
+
+# Catalog.cs(80)
+msgid "Manufacturer catalog"
+msgstr "제조업체 카탈로그"
+
+# Catalog.cs(84)
+msgid "Supplier catalog"
+msgstr "공급업체 카탈로그"
+
+# Catalog.cs(88)
+msgid "Contract number"
+msgstr "계약 번호"
+
+# Catalog.cs(92)
+msgid "Material catalog"
+msgstr "소재 카탈로그"
+
+# Catalog.cs(96)
+msgid "Drawing catalog"
+msgstr "도면 카탈로그"
+
+# Catalog.cs(100)
+msgid "Machine catalog"
+msgstr "기계 카탈로그"
+
+# Catalog.cs(104)
+msgid "Gage catalog"
+msgstr "게이지 카탈로그"
+
+# Catalog.cs(108)
+msgid "Units catalog"
+msgstr "단위 카탈로그"
+
+# Catalog.cs(112)
+msgid "Operator catalog"
+msgstr "연산자 카탈로그"
+
+# Catalog.cs(116)
+msgid "Contractor catalog"
+msgstr "계약자 카탈로그"
+
+# Catalog.cs(120)
+msgid "Product catalog"
+msgstr "제품 카탈로그"
+
+# Catalog.cs(124)
+msgid "Stuff catalog"
+msgstr "항목 카탈로그"
+
+# Catalog.cs(128)
+msgid "Event catalog"
+msgstr "이벤트 카탈로그"
+
+# Catalog.cs(132)
+msgid "Process parameter catalog"
+msgstr "프로세스 매개변수 카탈로그"
+
+# Catalog.cs(136)
+msgid "Cavity catalog"
+msgstr "캐비티 카탈로그"
+
+# Catalog.cs(140)
+msgid "Unknown catalog"
+msgstr "알 수 없는 카탈로그"
+
+# StateKeeper.cs(222)
+msgid "SPC Add-In couldn't create auxiliary file {0} next to PowerInspect document.\nThis file is used to remember what data has been recently exported.\n* Make sure you have enough rights\n* Move document file outside of Program Files folder if you have UAC enabled"
+msgstr "SPC 애드인이 PowerInspect 문서 다음에 보조 파일 {0}을(를) 생성할 수 없습니다.\n이 파일은 최근에 내보낸 데이터를 기억하는 데 사용됩니다.\n* 충분한 권한이 있는지 확인하십시오.\n* UAC를 활성화한 경우 프로그램 파일 폴더 외부로 문서 파일을 이동합니다."
+
+# StateKeeper.cs(227)
+msgid "SPC Add-In couldn't create auxiliary file {0}"
+msgstr "SPC 애드인을 보조 파일 {0}을(를) 생성할 수 없습니다."
+
+# StateKeeper.cs(265)
+msgid "SPC settings file associated with this project was created by previous version of SPC add-in.\nWould you like to try to load information from this file?"
+msgstr "이 프로젝트와 연관된 SPC 설정 파일은 이전 버전의 SPC 애드인에서 생성되었습니다.\n이 파일에서 정보를 로드해 보시겠습니까?"
+
+# StateKeeper.cs(278)
+msgid "SPC settings file associated with this project was created by newer version of SPC add-in\nIt's impossible to continue the work."
+msgstr "이 프로젝트와 연관된 SPC 설정 파일은 새 버전의 SPC 애드인에서 생성되었습니다.\n계속해서 작업할 수 없습니다."
+
+# FormCatalogItemEditor.cs(188)
+# FormExportSettingsSDD.cs(189)
+# FormFormatSelect.cs(129)
+# FormOperatorInput.cs(173)
+msgid "OK"
+msgstr "확인"
+
+# FormCatalogItemEditor.cs(189)
+# FormExportSettingsQDAS.cs(757)
+msgid "Number"
+msgstr "번호"
+
+# FormCatalogItemEditor.cs(190)
+# FormExportSettingsQDAS.cs(749)
+# FormExportSettingsQDAS.cs(758)
+# FormOperatorInput.cs(172)
+msgid "Value"
+msgstr "값"
+
+# FormCatalogItemEditor.cs(191)
+# FormExportSettingsCSV.cs(174)
+# FormExportSettingsQDAS.cs(731)
+# FormExportSettingsScript.cs(207)
+# FormExportSettingsSDD.cs(190)
+# FormFormatSelect.cs(130)
+# FormOperatorInput.cs(174)
+msgid "Cancel"
+msgstr "취소"
+
+# FormCatalogItemEditor.cs(192)
+msgid "Catalog item edit"
+msgstr "카탈로그 항목 편집"
+
+# FormExportSettingsCSV.cs(171)
+# FormExportSettingsScript.cs(205)
+msgid "Output file"
+msgstr "출력 파일"
+
+# FormExportSettingsCSV.cs(172)
+# FormExportSettingsQDAS.cs(738)
+# FormExportSettingsScript.cs(203)
+# FormExportSettingsScript.cs(204)
+# FormExportSettingsSDD.cs(188)
+msgid "Browse..."
+msgstr "찾기..."
+
+# FormExportSettingsCSV.cs(173)
+# FormExportSettingsQDAS.cs(730)
+# FormExportSettingsScript.cs(206)
+msgid "Save"
+msgstr "저장"
+
+# FormExportSettingsCSV.cs(175)
+msgid "CSV export settings"
+msgstr "CSV 내보내기 설정"
+
+# FormExportSettingsCSV.cs(181)
+msgid "Select name and location of .CSV file"
+msgstr ".CSV 파일의 이름 및 위치를 선택합니다."
+
+# FormExportSettingsCSV.cs(182)
+msgid "Comma Separated Values file (*.csv)|*.csv|All files (*.*)|*.*"
+msgstr "쉼표로 구분된 값 파일(*.csv)|*.csv|모든 파일(*.*)|*.*"
+
+# FormExportSettingsQDAS.cs(732)
+msgid "Export details"
+msgstr "상세 정보 내보내기"
+
+# FormExportSettingsQDAS.cs(733)
+msgid "DFX data"
+msgstr "DFX 데이터"
+
+# FormExportSettingsQDAS.cs(734)
+msgid "Time format"
+msgstr "시간 형식"
+
+# FormExportSettingsQDAS.cs(735)
+msgid "Date format"
+msgstr "날짜 형식"
+
+# FormExportSettingsQDAS.cs(736)
+msgid "Export date&&time of a measure"
+msgstr "측정 날짜 및 시간 내보내기(&&) (&T)"
+
+# FormExportSettingsQDAS.cs(737)
+msgid "Output directory"
+msgstr "출력 디렉토리"
+
+# FormExportSettingsQDAS.cs(739)
+msgid "DFD data"
+msgstr "DFD 데이터"
+
+# FormExportSettingsQDAS.cs(740)
+msgid "Export structure information"
+msgstr "구조 정보 내보내기"
+
+# FormExportSettingsQDAS.cs(741)
+# FormExportSettingsQDAS.cs(882)
+msgid "Show available fields list"
+msgstr "사용 가능한 필드 목록 표시"
+
+# FormExportSettingsQDAS.cs(742)
+msgid "Available"
+msgstr "사용 가능"
+
+# FormExportSettingsQDAS.cs(743)
+msgid "<-- Remove"
+msgstr "<-- 제거"
+
+# FormExportSettingsQDAS.cs(744)
+msgid "Add -->"
+msgstr "추가 -->"
+
+# FormExportSettingsQDAS.cs(745)
+msgid "KXXXX"
+msgstr "KXXXX"
+
+# FormExportSettingsQDAS.cs(746)
+# FormExportSettingsQDAS.cs(748)
+msgid "Description"
+msgstr "비고"
+
+# FormExportSettingsQDAS.cs(747)
+msgid "Exported"
+msgstr "내보냄"
+
+# FormExportSettingsQDAS.cs(750)
+msgid "Catalog management"
+msgstr "카탈로그 관리"
+
+# FormExportSettingsQDAS.cs(751)
+msgid "Catalogs"
+msgstr "카탈로그"
+
+# FormExportSettingsQDAS.cs(752)
+msgid "Import from Q-DAS..."
+msgstr "Q-DAS에서 불러오기..."
+
+# FormExportSettingsQDAS.cs(753)
+msgid "Catalog content"
+msgstr "카탈로그 컨텐츠"
+
+# FormExportSettingsQDAS.cs(754)
+msgid "Delete"
+msgstr "삭제"
+
+# FormExportSettingsQDAS.cs(755)
+msgid "Insert..."
+msgstr "삽입..."
+
+# FormExportSettingsQDAS.cs(756)
+msgid "Edit..."
+msgstr "편집..."
+
+# FormExportSettingsQDAS.cs(759)
+msgid "Use flat hierarchy"
+msgstr "일반 계층을 사용합니다."
+
+# FormExportSettingsQDAS.cs(760)
+msgid "Q-DAS export settings"
+msgstr "Q-DAS 내보내기 설정"
+
+# FormExportSettingsQDAS.cs(787)
+msgid "Select directory where exported DFD & DFX files should locate"
+msgstr "내보낸 DFD 및 DFX 파일이 있어야 하는 디렉토리를 선택합니다."
+
+# FormExportSettingsQDAS.cs(880)
+msgid "Hide available fields list"
+msgstr "사용 가능한 필드 목록 숨기기"
+
+# FormExportSettingsQDAS.cs(1029)
+msgid "Select name and location of .DFD file"
+msgstr ".DFD 파일의 이름 및 위치를 선택합니다."
+
+# FormExportSettingsQDAS.cs(1030)
+msgid "DFD file (*.DFD)|*.DFD|All files (*.*)|*.*"
+msgstr "DFD 파일(*.DFD)|*.DFD|모든 파일(*.*)|*.*"
+
+# FormExportSettingsQDAS.cs(1036)
+msgid "Failed to load catalog information.\nPlease make sure you have selected correct file."
+msgstr "카탈로그 정보를 로드하지 못했습니다.\n올바른 파일을 선택했는지 확인하십시오."
+
+# FormExportSettingsQDAS.cs(1103)
+msgid "Edit catalog item"
+msgstr "카탈로그 항목 편집"
+
+# FormExportSettingsQDAS.cs(1130)
+msgid "Delete {0} items?"
+msgstr "{0}개 항목을 삭제하시겠습니까?"
+
+# FormExportSettingsQDAS.cs(1133)
+msgid "Confirmation"
+msgstr "확인"
+
+# FormExportSettingsQDAS.cs(1160)
+msgid "Create catalog item"
+msgstr "카탈로그 항목 생성"
+
+# FormExportSettingsQDAS.cs(1168)
+msgid "Item with same number and value already exists"
+msgstr "번호와 값이 동일한 항목이 이미 있습니다."
+
+# FormExportSettingsScript.cs(202)
+msgid "Script file"
+msgstr "스크립트 파일"
+
+# FormExportSettingsScript.cs(208)
+msgid "Script export settings"
+msgstr "스크립트 내보내기 설정"
+
+# FormExportSettingsScript.cs(227)
+msgid "Select script file to process"
+msgstr "처리할 스크립트 파일을 선택합니다."
+
+# FormExportSettingsScript.cs(228)
+msgid "VBScript files (*.vbs)|*.vbs|JScript files (*.js)|*.js|All files (*.*)|*.*"
+msgstr "VBScript 파일(*.vbs)|*.vbs|JScript 파일(*.js)|*.js|모든 파일(*.*)|*.*"
+
+# FormExportSettingsScript.cs(250)
+msgid "Select output file"
+msgstr "출력 파일을 선택합니다."
+
+# FormExportSettingsScript.cs(251)
+msgid "Text files (*.txt)|*.txt|All files (*.*)|*.*"
+msgstr "텍스트 파일(*.txt)|*.txt|모든 파일(*.*)|*.*"
+
+# FormExportSettingsSDD.cs(186)
+msgid "Output folder"
+msgstr "저장경로"
+
+# FormExportSettingsSDD.cs(187)
+msgid "File name (without an extension)"
+msgstr "파일 이름(확장자 없음)"
+
+# FormExportSettingsSDD.cs(191)
+msgid "SDD export settings"
+msgstr "SDD 내보내기 설정"
+
+# FormExportSettingsSDD.cs(236)
+msgid "Select a folder to export"
+msgstr "내보낼 폴더를 선택합니다."
+
+# FormFormatSelect.cs(124)
+msgid "Available export formats"
+msgstr "사용 가능한 내보내기 형식"
+
+# FormFormatSelect.cs(125)
+msgid "Custom script (JScript, VBScript)"
+msgstr "사용자 정의 스크립트(JScript VBScript)"
+
+# FormFormatSelect.cs(126)
+msgid "Q-DAS (*.dfd, *.dfx)"
+msgstr "Q-DAS(*.dfd, *.dfx)"
+
+# FormFormatSelect.cs(127)
+msgid "Lighthouse Systems' SPC data file format (*.sdd)"
+msgstr "Lighthouse 시스템의 SPC 데이터 파일 형식(*.sdd)"
+
+# FormFormatSelect.cs(128)
+msgid "Comma separated values (*.csv)"
+msgstr "쉼표로 구분된 값(*.csv)"
+
+# FormFormatSelect.cs(131)
+msgid "Select export format"
+msgstr "내보내기 형식을 선택합니다."
+
+# FormOperatorInput.cs(171)
+msgid "Name"
+msgstr "이름"
+
+# FormOperatorInput.cs(175)
+msgid "Operator input"
+msgstr "연산자 입력"
+
+# FormSPCAddIn.cs(530)
+msgid "Export..."
+msgstr "내보내기..."
+
+# FormSPCAddIn.cs(531)
+msgid "Close"
+msgstr "닫기"
+
+# FormSPCAddIn.cs(532)
+msgid "Elements to export"
+msgstr "내보낼 요소"
+
+# FormSPCAddIn.cs(533)
+msgid "Select unexported"
+msgstr "내보내지 않은 항목을 선택했습니다."
+
+# FormSPCAddIn.cs(534)
+msgid "Select latest"
+msgstr "최신 항목 선택"
+
+# FormSPCAddIn.cs(535)
+# FormSPCAddIn.cs(543)
+msgid "Clear all"
+msgstr "모두 지우기"
+
+# FormSPCAddIn.cs(536)
+msgid "Select all reported"
+msgstr "보고된 모든 항목을 선택합니다."
+
+# FormSPCAddIn.cs(537)
+msgid "Measure"
+msgstr "측정"
+
+# FormSPCAddIn.cs(538)
+msgid "Extra information"
+msgstr "추가 정보"
+
+# FormSPCAddIn.cs(539)
+msgid "Expand"
+msgstr "확장"
+
+# FormSPCAddIn.cs(540)
+msgid "Collapse"
+msgstr "접기"
+
+# FormSPCAddIn.cs(541)
+msgid "-"
+msgstr "-"
+
+# FormSPCAddIn.cs(542)
+msgid "Expand all"
+msgstr "모두 확장"
+
+# FormSPCAddIn.cs(544)
+# FormSPCAddIn.cs(545)
+msgid "Select all"
+msgstr "모두 선택"
+
+# FormSPCAddIn.cs(546)
+msgid "Measure part name"
+msgstr "측정 파트 이름"
+
+# FormSPCAddIn.cs(547)
+msgid "Settings..."
+msgstr "설정..."
+
+# FormSPCAddIn.cs(549)
+msgid "SPC Export Add-In [Base measure - \"{0}\"]"
+msgstr "SPC 내보내기 애드인 [베이스 측정 - \"{0}\"]"
+
+# FormSPCAddIn.cs(1208)
+msgid "Coordinates"
+msgstr "좌표"
+
+# FormSPCAddIn.cs(1712)
+msgid "Invalid for item(s): {0}"
+msgstr "다음 항목에 유효하지 않음: {0}"
+
+# FormSPCAddIn.cs(1835)
+msgid "There are no measures to export.\nPlease select at least one."
+msgstr "내보낼 측정이 없습니다.\n하나 이상 선택하십시오."
+
+# FormSPCAddIn.cs(1849)
+msgid "There are no variables to export.\nPlease select at least one."
+msgstr "내보낼 변수가 없습니다.\n하나 이상 선택하십시오."
+
+# FormSPCAddIn.cs(1863)
+msgid "Some measures are invalid for selected variables.\nPlease check measure's extra information."
+msgstr "선택한 변수에 대해 일부 측정이 유효하지 않습니다.\n측정의 추가 정보를 확인하십시오."
+
+# FormSPCAddIn.cs(1893)
+msgid "Initial setup should be made before export."
+msgstr "내보내기 전에 초기 설정을 수행해야 합니다."
+
+# FormSPCAddIn.cs(1907)
+msgid "Export aborted by user"
+msgstr "사용자가 내보내기를 중단했습니다."
+
+# FormSPCAddIn.cs(1913)
+msgid "Export has failed because of lack of input data"
+msgstr "입력 데이터 부족으로 내보내기에 실패했습니다."
+
+# FormSPCAddIn.cs(1931)
+msgid "Data has been successfully exported"
+msgstr "데이터를 성공적으로 내보냈습니다."
+
+# FormSPCAddIn.cs(1939)
+msgid "Error while exporting data"
+msgstr "데이터를 내보내는 중 오류가 발생했습니다."
+
+# FormSPCAddIn.cs(2077)
+msgid " {0} items have not been selected because they are not applicable for active sort of measurement"
+msgstr " 측정의 활성 정렬에 해당하지 않기 때문에 {0}개 항목이 선택되지 않았습니다."
+
+# FormSPCAddIn.cs(2142)
+msgid "This measure have been exported before.\nRe-exporting measure may cause wrong statistic processing by SPC software.\n Are you sure you want to re-export data?"
+msgstr "이전에 이 측정을 내보냈습니다.\n측정을 다시 내보내면 SPC 소프트웨어에서 통계가 잘못 처리될 수 있습니다.\n 데이터를 다시 내보내시겠습니까?"
+
+# FormSPCAddIn.cs(2248)
+msgid "There are already exported measures in the list.\nRe-exporting measures may cause some problems in statistics calculation process of SPC software.\nAre you sure you want to overwrite them all?"
+msgstr "목록에 이미 내보낸 측정이 있습니다.\n측정을 다시 내보내면 SPC 소프트웨어의 측정 계산 프로세스에서 몇 가지 문제가 발생할 수 있습니다.\n모두 덮어쓰시겠습니까?"
+
+# FormSPCAddIn.cs(2249)
+msgid "Already exported measures detected"
+msgstr "이미 내보낸 측정이 감지되었습니다."
+
+# MacroManager.cs(30)
+msgid "Document name"
+msgstr "문서 이름"
+
+# MacroManager.cs(40)
+msgid "Document name (short)"
+msgstr "문서 이름(짧음)"
+
+# MacroManager.cs(51)
+msgid "Measure name"
+msgstr "측정 이름"
+
+# ReportItemGDT.cs(115)
+msgid "Can't create MSXML2.DOMDocument object"
+msgstr "MSXML2.DOMDocument 객체를 생성할 수 없습니다."
+
+# ScriptProcessorNetCS.cs(74)
+# ScriptProcessorNetJS.cs(63)
+# ScriptProcessorNetVB.cs(64)
+msgid "Line: {0}, Col: {1}, Error: {2} - {3}"
+msgstr "행: {0}, 열: {1}, 오류: {2} - {3}"
+
+# ScriptProcessorNetCS.cs(75)
+# ScriptProcessorNetJS.cs(64)
+# ScriptProcessorNetVB.cs(65)
+msgid "Error while compiling script"
+msgstr "스크립트를 컴파일하는 동안 오류가 발생했습니다."
+
+# ScriptProcessorNetCS.cs(92)
+# ScriptProcessorNetJS.cs(81)
+# ScriptProcessorNetVB.cs(80)
+msgid "Can't find class {0} in script file"
+msgstr "스크립트 파일에서 {0} 클래스를 찾을 수 없습니다."
+
+# ExportSettingsQDAS.cs(458)
+msgid "Part number"
+msgstr "파트 번호"
+
+# ExportSettingsQDAS.cs(463)
+msgid "Part description"
+msgstr "파트 설명"
+
+# ExportSettingsQDAS.cs(468)
+msgid "Part abbreviation"
+msgstr "파트 약어"
+
+# ExportSettingsQDAS.cs(473)
+msgid "Part Amendment status"
+msgstr "파트 개정 상태"
+
+# ExportSettingsQDAS.cs(478)
+msgid "Product"
+msgstr "제품"
+
+# ExportSettingsQDAS.cs(483)
+msgid "Abbreviation Part no."
+msgstr "약어 파트 번호"
+
+# ExportSettingsQDAS.cs(488)
+msgid "Part type"
+msgstr "파트 타입"
+
+# ExportSettingsQDAS.cs(493)
+msgid "Part code"
+msgstr "파트 코드"
+
+# ExportSettingsQDAS.cs(498)
+msgid "Control item"
+msgstr "항목 제어"
+
+# ExportSettingsQDAS.cs(503)
+msgid "Variant"
+msgstr "변형"
+
+# ExportSettingsQDAS.cs(508)
+msgid "ID number annex"
+msgstr "ID 번호 첨부"
+
+# ExportSettingsQDAS.cs(513)
+msgid "ID number index"
+msgstr "ID 번호 인덱스"
+
+# ExportSettingsQDAS.cs(518)
+msgid "Parts ID"
+msgstr "파트 ID"
+
+# ExportSettingsQDAS.cs(523)
+msgid "Assembly part"
+msgstr "어셈블리 파트"
+
+# ExportSettingsQDAS.cs(528)
+msgid "Manufacturer Catalog"
+msgstr "제조업체 카탈로그"
+
+# ExportSettingsQDAS.cs(533)
+msgid "Manufacturer No."
+msgstr "제조업체 번호"
+
+# ExportSettingsQDAS.cs(538)
+msgid "Manufacturer name"
+msgstr "제조업체 이름"
+
+# ExportSettingsQDAS.cs(543)
+msgid "Manufacturer number"
+msgstr "제조업체 번호"
+
+# ExportSettingsQDAS.cs(548)
+msgid "Materials Catalog"
+msgstr "소재 카탈로그"
+
+# ExportSettingsQDAS.cs(553)
+# ExportSettingsQDAS.cs(563)
+msgid "Material number"
+msgstr "소재 번호"
+
+# ExportSettingsQDAS.cs(558)
+msgid "Material Description"
+msgstr "소재 설명"
+
+# ExportSettingsQDAS.cs(568)
+msgid "Drawing Catalog"
+msgstr "도면 카탈로그"
+
+# ExportSettingsQDAS.cs(573)
+msgid "Drawing number"
+msgstr "도면 번호"
+
+# ExportSettingsQDAS.cs(578)
+msgid "Drawing Amendment"
+msgstr "도면 개정"
+
+# ExportSettingsQDAS.cs(583)
+msgid "Drawing Index"
+msgstr "도면 인덱스"
+
+# ExportSettingsQDAS.cs(588)
+msgid "Drawing Number"
+msgstr "도면 번호"
+
+# ExportSettingsQDAS.cs(593)
+msgid "Drawing validation date"
+msgstr "도면 유효성 검사 날짜"
+
+# ExportSettingsQDAS.cs(598)
+msgid "Drawing name"
+msgstr "도면 이름"
+
+# ExportSettingsQDAS.cs(603)
+msgid "Basic drawing number"
+msgstr "기본 도면 번호"
+
+# ExportSettingsQDAS.cs(608)
+# ExportSettingsQDAS.cs(623)
+msgid "Contractor Number"
+msgstr "계약자 번호"
+
+# ExportSettingsQDAS.cs(613)
+msgid "Contractor Name"
+msgstr "계약자 이름"
+
+# ExportSettingsQDAS.cs(618)
+msgid "Contract"
+msgstr "계약"
+
+# ExportSettingsQDAS.cs(628)
+# ExportSettingsQDAS.cs(638)
+msgid "Customer Number"
+msgstr "고객 번호"
+
+# ExportSettingsQDAS.cs(633)
+msgid "Customer Name"
+msgstr "고객 이름"
+
+# ExportSettingsQDAS.cs(643)
+# ExportSettingsQDAS.cs(653)
+msgid "Supplier Number"
+msgstr "공급업체 번호"
+
+# ExportSettingsQDAS.cs(648)
+msgid "Supplier Name"
+msgstr "공급업체 이름"
+
+# ExportSettingsQDAS.cs(658)
+# ExportSettingsQDAS.cs(668)
+msgid "Machine Number"
+msgstr "기계 번호"
+
+# ExportSettingsQDAS.cs(663)
+msgid "Machine Description"
+msgstr "기계 설명"
+
+# ExportSettingsQDAS.cs(673)
+msgid "Machine Location"
+msgstr "기계 위치"
+
+# ExportSettingsQDAS.cs(678)
+msgid "Work Cycle"
+msgstr "작업 주기"
+
+# ExportSettingsQDAS.cs(683)
+msgid "Plant Sector"
+msgstr "플랜트 섹터"
+
+# ExportSettingsQDAS.cs(688)
+msgid "Department"
+msgstr "부서"
+
+# ExportSettingsQDAS.cs(693)
+msgid "Workshop/sector"
+msgstr "작업장/섹터"
+
+# ExportSettingsQDAS.cs(698)
+msgid "Cost centre"
+msgstr "비용 센터"
+
+# ExportSettingsQDAS.cs(703)
+msgid "Shift"
+msgstr "이동"
+
+# ExportSettingsQDAS.cs(708)
+msgid "Order number"
+msgstr "주문 번호"
+
+# ExportSettingsQDAS.cs(713)
+msgid "Goods received number"
+msgstr "제품 입고 번호"
+
+# ExportSettingsQDAS.cs(718)
+msgid "Test Facility Number"
+msgstr "테스트 설비 번호"
+
+# ExportSettingsQDAS.cs(723)
+msgid "Test Facility Description"
+msgstr "테스트 설비 설명"
+
+# ExportSettingsQDAS.cs(728)
+msgid "Reason for Test"
+msgstr "테스트 이유"
+
+# ExportSettingsQDAS.cs(733)
+msgid "Test Begin"
+msgstr "테스트 시작"
+
+# ExportSettingsQDAS.cs(738)
+msgid "Test End"
+msgstr "테스트 종료"
+
+# ExportSettingsQDAS.cs(743)
+msgid "Test Location"
+msgstr "테스트 위치"
+
+# ExportSettingsQDAS.cs(748)
+msgid "Test Facility No."
+msgstr "테스트 시설 번호"
+
+# ExportSettingsQDAS.cs(753)
+msgid "Inspection type"
+msgstr "검사 타입"
+
+# ExportSettingsQDAS.cs(758)
+msgid "measurement type"
+msgstr "측정 타입"
+
+# ExportSettingsQDAS.cs(763)
+msgid "Standard Number"
+msgstr "표준 번호"
+
+# ExportSettingsQDAS.cs(768)
+msgid "Standard description"
+msgstr "표준 설명"
+
+# ExportSettingsQDAS.cs(773)
+msgid "Standard number"
+msgstr "표준 번호"
+
+# ExportSettingsQDAS.cs(778)
+# ExportSettingsQDAS.cs(788)
+msgid "Inspector number"
+msgstr "검사기 번호"
+
+# ExportSettingsQDAS.cs(783)
+msgid "Inspector name"
+msgstr "검사기 이름"
+
+# ExportSettingsQDAS.cs(793)
+msgid "Gage room"
+msgstr "게이지 룸"
+
+# ExportSettingsQDAS.cs(798)
+msgid "Measuring program number"
+msgstr "측정 프로그램 번호"
+
+# ExportSettingsQDAS.cs(803)
+msgid "Measuring program version"
+msgstr "측정 프로그램 버전"
+
+# ExportSettingsQDAS.cs(808)
+msgid "Client"
+msgstr "클라이언트"
+
+# ExportSettingsQDAS.cs(813)
+msgid "Test batch"
+msgstr "테스트 배치"
+
+# ExportSettingsQDAS.cs(818)
+msgid "plant"
+msgstr "플랜트"
+
+# ExportSettingsQDAS.cs(823)
+msgid "Production order"
+msgstr "제작 순서"
+
+# ExportSettingsQDAS.cs(828)
+msgid "Test Plan Number Text"
+msgstr "테스트 계획 번호 텍스트"
+
+# ExportSettingsQDAS.cs(833)
+msgid "Test Plan Name"
+msgstr "테스트 계획 이름"
+
+# ExportSettingsQDAS.cs(838)
+msgid "Test Plan Development Date"
+msgstr "테스트 계획 개발 날짜"
+
+# ExportSettingsQDAS.cs(843)
+msgid "Test Plan Developer"
+msgstr "테스트 계획 개발자"
+
+# ExportSettingsQDAS.cs(848)
+msgid "Remark"
+msgstr "설명"
+
+# ExportSettingsQDAS.cs(858)
+msgid "attribute"
+msgstr "속성"
+
+# ExportSettingsQDAS.cs(863)
+msgid "Flag"
+msgstr "플래그"
+
+# ExportSettingsQDAS.cs(868)
+msgid "Event"
+msgstr "이벤트"
+
+# ExportSettingsQDAS.cs(873)
+msgid "Batch number"
+msgstr "배치 번호"
+
+# ExportSettingsQDAS.cs(878)
+msgid "Cavity number"
+msgstr "캐비티 번호"
+
+# ExportSettingsQDAS.cs(883)
+msgid "Operator name"
+msgstr "작업자 이름"
+
+# ExportSettingsQDAS.cs(888)
+msgid "Text"
+msgstr "텍스트"
+
+# ExportSettingsQDAS.cs(893)
+msgid "Machine number"
+msgstr "기계 번호"
+
+# ExportSettingsQDAS.cs(898)
+msgid "Process parameter"
+msgstr "프로세스 매개변수"
+
+# ExportSettingsQDAS.cs(903)
+msgid "Gage number"
+msgstr "게이지 번호"
+
+# ExportSettingsQDAS.cs(908)
+msgid "Process parameter value"
+msgstr "프로세스 매개변수 값"
+
+# ExportSettingsQDAS.cs(913)
+msgid "Subgroup size"
+msgstr "하위 그룹 크기"
+
+# ExportSettingsQDAS.cs(918)
+msgid "No. of errors"
+msgstr "오류 수"
+
+# ExportSettingsQDAS.cs(923)
+msgid "Number < LSL"
+msgstr "번호 < LSL"
+
+# ExportSettingsQDAS.cs(928)
+msgid "Number > USL"
+msgstr "번호 > USL"
+
+# ExportSettingsQDAS.cs(933)
+msgid "Rejects"
+msgstr "거부"
+
+# ExportSettingsQDAS.cs(938)
+msgid "Re-work"
+msgstr "재작업"
+
+# ExportSettingsQDAS.cs(943)
+msgid "Error class"
+msgstr "오류 클래스"
+
+# ExportSettingsQDAS.cs(948)
+msgid "Order"
+msgstr "순서"
+

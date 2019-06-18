@@ -1,0 +1,10 @@
+next-version: 1.0
+assembly-versioning-scheme: MajorMinor
+mode: ContinuousDelivery
+tag-prefix: 'spc-v'
+major-version-bump-message: '\+semver-spc:\s?(breaking|major)'
+minor-version-bump-message: '\+semver-spc:\s?(feature|minor)'
+patch-version-bump-message: '\+semver-spc:\s?(fix|patch)'
+no-bump-message: '\+semver-spc:\s?(none|skip)'
+ignore:
+  sha: []

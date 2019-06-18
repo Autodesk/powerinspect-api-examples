@@ -1,0 +1,1013 @@
+﻿# Encoding: UTF8
+# LocalisationSupport.cs(35)
+# SPCExporterCSV.cs(175)
+# FormExportSettingsQDAS.cs(1037)
+# FormSPCAddIn.cs(1894)
+msgid "Error"
+msgstr "Hiba"
+
+# PIConnector.cs(177)
+msgid "Please open at least one document"
+msgstr "A művelethez legalább egy mérési dokumentumot meg kell nyitnunk!"
+
+# PIConnector.cs(178)
+# PIConnector.cs(189)
+# StateKeeper.cs(266)
+# StateKeeper.cs(279)
+# FormSPCAddIn.cs(1836)
+# FormSPCAddIn.cs(1850)
+# FormSPCAddIn.cs(1864)
+# FormSPCAddIn.cs(1914)
+msgid "Warning"
+msgstr "Figyelem"
+
+# PIConnector.cs(188)
+msgid "It is impossible to export from unsaved document.\nDo you want to save it now and continue to export?"
+msgstr "Ha nincs elmentve a dokumentum, akkor nem tudom az SPC-hez a kívánt adatokat exportálni.\nElmenthetem a dokumentumot a folytatáshoz?"
+
+# PIConnector.cs(773)
+msgid "SPC Export\nOpen SPC export dialog\nOpen SPC export dialog"
+msgstr "SPC kiadása\nAz SPC-adatok exportálása külső programok számára.\nSPC-adatok kiadása ablak megnyitása"
+
+# PIConnectorBase.cs(124)
+msgid "{0} Exception caught."
+msgstr ""
+
+# PIConnectorBase.cs(126)
+msgid "Name Entry Error "
+msgstr ""
+
+# FieldEditors.cs(265)
+msgid "Undo"
+msgstr "Vissza"
+
+# FieldEditors.cs(275)
+msgid "Cut"
+msgstr "Kivágás"
+
+# FieldEditors.cs(285)
+msgid "Copy"
+msgstr "Másolás"
+
+# FieldEditors.cs(295)
+msgid "Paste"
+msgstr "Beillesztés"
+
+# FieldEditors.cs(305)
+msgid "Insert Macro"
+msgstr "Makró beillesztése"
+
+# FieldEditors.cs(396)
+# FieldEditors.cs(553)
+msgid "The value you have entered is incorrect"
+msgstr "A megadott érték helytelen."
+
+# FieldEditors.cs(397)
+# FieldEditors.cs(554)
+# SPCExporterCSV.cs(105)
+# SPCExporterCSV.cs(115)
+# SPCExporterCSV.cs(125)
+# SPCExporterCSV.cs(145)
+# SPCExporterSDD.cs(215)
+# StateKeeper.cs(187)
+# FormExportSettingsQDAS.cs(1169)
+# FormSPCAddIn.cs(2080)
+# FormSPCAddIn.cs(2143)
+msgid "Attention"
+msgstr "Figyelem"
+
+# GathererElementsTree.cs(206)
+# GathererElementsTree.cs(209)
+# FormSPCAddIn.cs(1081)
+# FormSPCAddIn.cs(1084)
+msgid "IsAccepted"
+msgstr "Minősítés"
+
+# SPCExporterCSV.cs(104)
+msgid "There are no measures to export"
+msgstr "Nincs alkatrészmérés, amelyből SPC-adatokat lehetne exportálni."
+
+# SPCExporterCSV.cs(114)
+msgid "There are no variables to export"
+msgstr "Nem jelöltünk ki egyetlen exportálandó elemet sem."
+
+# SPCExporterCSV.cs(124)
+msgid "Destination file name not specified"
+msgstr "A megadott fájlnév nem létezik."
+
+# SPCExporterCSV.cs(141)
+msgid "The item {0} is not measured for {1}.\nNo data will be written to the file until you measure required item,\n or remove it from export list"
+msgstr "A(z) '{0}' elem nincs megmérve a(z) '{1}' alkatrészméréshez.\nA fájlba mindaddig nem kerül adat, amíg a szükséges elemet\nnem mérjük meg, vagy nem töröljük az exportálási listáról."
+
+# SPCExporterCSV.cs(172)
+msgid "Error occurred while opening file {0}. Probably file is locked by other application."
+msgstr "Hiba lépett fel a következő fájl megnyitásakor: {0}. Lehet, hogy a fájlt egy másik alkalmazás zárolta..."
+
+# SPCExporterSDD.cs(211)
+msgid "The item {0} is not valid for the measure {1}"
+msgstr "A(z) {0} nevű elem érvénytelen a(z) {1} nevű alkatrészmérésnél."
+
+# SPCExporterSDD.cs(252)
+msgid "AcxSDDWrite ActiveX object is not installed or registered properly.\n"
+msgstr "Az 'AcxSDDWrite' ActiveX objektum nincs telepítve, vagy sérült a regisztrációs adatbázisban a bejegyzése.\n"
+
+# SPCExporterSDD.cs(253)
+msgid "It is usually contained in AcxSDDWriter.dll.\n"
+msgstr "Az objektumot általában az 'AcxSDDWriter.dll' fájl tartalmazza.\n"
+
+# SPCExporterSDD.cs(254)
+msgid "Please, contact Autodesk for assistance."
+msgstr "Kérem, lépjen kapcsolatba az Autodesk műszaki segélyszolgálatával."
+
+# Catalog.cs(76)
+msgid "Customer catalog"
+msgstr "Ügyfélkatalógus"
+
+# Catalog.cs(80)
+msgid "Manufacturer catalog"
+msgstr "Gyártói katalógus"
+
+# Catalog.cs(84)
+msgid "Supplier catalog"
+msgstr "Szállítói katalógus"
+
+# Catalog.cs(88)
+msgid "Contract number"
+msgstr "Szerződésszám"
+
+# Catalog.cs(92)
+msgid "Material catalog"
+msgstr "Anyagkatalógus"
+
+# Catalog.cs(96)
+msgid "Drawing catalog"
+msgstr "Rajzkatalógus"
+
+# Catalog.cs(100)
+msgid "Machine catalog"
+msgstr "Gépkatalógus"
+
+# Catalog.cs(104)
+msgid "Gage catalog"
+msgstr "Etalonkatalógus"
+
+# Catalog.cs(108)
+msgid "Units catalog"
+msgstr "Egységkatalógus"
+
+# Catalog.cs(112)
+msgid "Operator catalog"
+msgstr "Kezelői katalógus"
+
+# Catalog.cs(116)
+msgid "Contractor catalog"
+msgstr "Beszállítói katalógus"
+
+# Catalog.cs(120)
+msgid "Product catalog"
+msgstr "Termékkatalógus"
+
+# Catalog.cs(124)
+msgid "Stuff catalog"
+msgstr "Kiegészítő katalógus"
+
+# Catalog.cs(128)
+msgid "Event catalog"
+msgstr "Eseménykatalógus"
+
+# Catalog.cs(132)
+msgid "Process parameter catalog"
+msgstr "Folyamatparaméterek katalógusa"
+
+# Catalog.cs(136)
+msgid "Cavity catalog"
+msgstr "Fészekkatalógus"
+
+# Catalog.cs(140)
+msgid "Unknown catalog"
+msgstr "Ismeretlen katalógus"
+
+# StateKeeper.cs(222)
+msgid "SPC Add-In couldn't create auxiliary file {0} next to PowerInspect document.\nThis file is used to remember what data has been recently exported.\n* Make sure you have enough rights\n* Move document file outside of Program Files folder if you have UAC enabled"
+msgstr "Az SPC-bővítmény nem tudja létrehozni a(z) '{0}' nevű állományt a PowerInspect mérési dokumentuma mellett.\nA fájlt a program az exportált elemek nyilvántartására használja.\n\n- Ellenőrizzük, hogy van-e megfelelő jogosultságunk az adott könyvtárban!\n- Helyezzük át a mérési dokumentumot a 'Programfájlok' (Program files) könyvtárból máshová,\n  ha a Windows 'felhasználói fiókok felügyelete' engedélyezve van!"
+
+# StateKeeper.cs(227)
+msgid "SPC Add-In couldn't create auxiliary file {0}"
+msgstr "Az SPC-bővítmény nem tudja létrehozni a következő állományt: {0} "
+
+# StateKeeper.cs(265)
+msgid "SPC settings file associated with this project was created by previous version of SPC add-in.\nWould you like to try to load information from this file?"
+msgstr "A mérési dokumentum SPC-beállításait tartalmazó fájl az SPC-bővítmény egy korábbi verziójával készült.\nSzeretnénk importálni a fájlban lévő beállításokat?"
+
+# StateKeeper.cs(278)
+msgid "SPC settings file associated with this project was created by newer version of SPC add-in\nIt's impossible to continue the work."
+msgstr "A mérési dokumentum SPC-beállításait tartalmazó fájl az SPC-bővítmény egy újabb verziójával készült.\nA műveletet nem tudom folytatni."
+
+# FormCatalogItemEditor.cs(188)
+# FormExportSettingsSDD.cs(189)
+# FormFormatSelect.cs(129)
+# FormOperatorInput.cs(173)
+msgid "OK"
+msgstr "OK"
+
+# FormCatalogItemEditor.cs(189)
+# FormExportSettingsQDAS.cs(757)
+msgid "Number"
+msgstr "Szám"
+
+# FormCatalogItemEditor.cs(190)
+# FormExportSettingsQDAS.cs(749)
+# FormExportSettingsQDAS.cs(758)
+# FormOperatorInput.cs(172)
+msgid "Value"
+msgstr "Érték"
+
+# FormCatalogItemEditor.cs(191)
+# FormExportSettingsCSV.cs(174)
+# FormExportSettingsQDAS.cs(731)
+# FormExportSettingsScript.cs(207)
+# FormExportSettingsSDD.cs(190)
+# FormFormatSelect.cs(130)
+# FormOperatorInput.cs(174)
+msgid "Cancel"
+msgstr "Mégse"
+
+# FormCatalogItemEditor.cs(192)
+msgid "Catalog item edit"
+msgstr "Elem módosítása"
+
+# FormExportSettingsCSV.cs(171)
+# FormExportSettingsScript.cs(205)
+msgid "Output file"
+msgstr "Kimeneti fájl"
+
+# FormExportSettingsCSV.cs(172)
+# FormExportSettingsQDAS.cs(738)
+# FormExportSettingsScript.cs(203)
+# FormExportSettingsScript.cs(204)
+# FormExportSettingsSDD.cs(188)
+msgid "Browse..."
+msgstr "Tallózás..."
+
+# FormExportSettingsCSV.cs(173)
+# FormExportSettingsQDAS.cs(730)
+# FormExportSettingsScript.cs(206)
+msgid "Save"
+msgstr "Mentés"
+
+# FormExportSettingsCSV.cs(175)
+msgid "CSV export settings"
+msgstr "CSV-fájl exportálási beállításai"
+
+# FormExportSettingsCSV.cs(181)
+msgid "Select name and location of .CSV file"
+msgstr "CSV-fájl neve és elérési útvonala"
+
+# FormExportSettingsCSV.cs(182)
+msgid "Comma Separated Values file (*.csv)|*.csv|All files (*.*)|*.*"
+msgstr "Vesszővel elválasztott értékek (*.csv)|*.csv|Minden fájl (*.*)|*.*"
+
+# FormExportSettingsQDAS.cs(732)
+msgid "Export details"
+msgstr "Exportálás részletei"
+
+# FormExportSettingsQDAS.cs(733)
+msgid "DFX data"
+msgstr "DFX-adat"
+
+# FormExportSettingsQDAS.cs(734)
+msgid "Time format"
+msgstr "Időformátum"
+
+# FormExportSettingsQDAS.cs(735)
+msgid "Date format"
+msgstr "Dátumformátum"
+
+# FormExportSettingsQDAS.cs(736)
+msgid "Export date&&time of a measure"
+msgstr "Mérési dátum és idő kiadása"
+
+# FormExportSettingsQDAS.cs(737)
+msgid "Output directory"
+msgstr "Kimeneti könyvtár"
+
+# FormExportSettingsQDAS.cs(739)
+msgid "DFD data"
+msgstr "DFD-adat"
+
+# FormExportSettingsQDAS.cs(740)
+msgid "Export structure information"
+msgstr "Struktúrális adatok kiadása"
+
+# FormExportSettingsQDAS.cs(741)
+# FormExportSettingsQDAS.cs(882)
+msgid "Show available fields list"
+msgstr "Mezőlista megjelenítése"
+
+# FormExportSettingsQDAS.cs(742)
+msgid "Available"
+msgstr "Elérhető"
+
+# FormExportSettingsQDAS.cs(743)
+msgid "<-- Remove"
+msgstr "<- Törlés"
+
+# FormExportSettingsQDAS.cs(744)
+msgid "Add -->"
+msgstr "Hozzáadás ->"
+
+# FormExportSettingsQDAS.cs(745)
+msgid "KXXXX"
+msgstr "Mező"
+
+# FormExportSettingsQDAS.cs(746)
+# FormExportSettingsQDAS.cs(748)
+msgid "Description"
+msgstr "Leírás"
+
+# FormExportSettingsQDAS.cs(747)
+msgid "Exported"
+msgstr "Exportálandó"
+
+# FormExportSettingsQDAS.cs(750)
+msgid "Catalog management"
+msgstr "Katalógusok kezelése"
+
+# FormExportSettingsQDAS.cs(751)
+msgid "Catalogs"
+msgstr "Katalógusok"
+
+# FormExportSettingsQDAS.cs(752)
+msgid "Import from Q-DAS..."
+msgstr "Importálás a Q-DAS-ból..."
+
+# FormExportSettingsQDAS.cs(753)
+msgid "Catalog content"
+msgstr "Katalógus tartalma"
+
+# FormExportSettingsQDAS.cs(754)
+msgid "Delete"
+msgstr "Törlés"
+
+# FormExportSettingsQDAS.cs(755)
+msgid "Insert..."
+msgstr "Beillesztés..."
+
+# FormExportSettingsQDAS.cs(756)
+msgid "Edit..."
+msgstr "Módosítás..."
+
+# FormExportSettingsQDAS.cs(759)
+msgid "Use flat hierarchy"
+msgstr "Sima hierarchia"
+
+# FormExportSettingsQDAS.cs(760)
+msgid "Q-DAS export settings"
+msgstr "Q-DAS exportálási beállításai"
+
+# FormExportSettingsQDAS.cs(787)
+msgid "Select directory where exported DFD & DFX files should locate"
+msgstr "DFD- és DFX-fájlok könyvtárának kiválasztása"
+
+# FormExportSettingsQDAS.cs(880)
+msgid "Hide available fields list"
+msgstr "Mezőlista elrejtése"
+
+# FormExportSettingsQDAS.cs(1029)
+msgid "Select name and location of .DFD file"
+msgstr "DFD-fájl kiválasztása"
+
+# FormExportSettingsQDAS.cs(1030)
+msgid "DFD file (*.DFD)|*.DFD|All files (*.*)|*.*"
+msgstr "DFD-fájlok (*.DFD)|*.DFD|Minden fájl (*.*)|*.*"
+
+# FormExportSettingsQDAS.cs(1036)
+msgid "Failed to load catalog information.\nPlease make sure you have selected correct file."
+msgstr "Nem tudom betölteni a katalógus adatait.\nGyőződjünk meg róla, hogy a megfelelő fájlt választottuk-e ki!"
+
+# FormExportSettingsQDAS.cs(1103)
+msgid "Edit catalog item"
+msgstr "Katalóguselem módosítása"
+
+# FormExportSettingsQDAS.cs(1130)
+msgid "Delete {0} items?"
+msgstr "Törölhető a(z) {0} db. elem?"
+
+# FormExportSettingsQDAS.cs(1133)
+msgid "Confirmation"
+msgstr "Jóváhagyás"
+
+# FormExportSettingsQDAS.cs(1160)
+msgid "Create catalog item"
+msgstr "Katalóguselem készítése"
+
+# FormExportSettingsQDAS.cs(1168)
+msgid "Item with same number and value already exists"
+msgstr "Ilyen számmal és értékkel már létezik elem."
+
+# FormExportSettingsScript.cs(202)
+msgid "Script file"
+msgstr "Szkriptfájl"
+
+# FormExportSettingsScript.cs(208)
+msgid "Script export settings"
+msgstr "Szkriptfájl szerinti exportálás beállításai"
+
+# FormExportSettingsScript.cs(227)
+msgid "Select script file to process"
+msgstr "Formátumleíró szkriptfájl kiválasztása"
+
+# FormExportSettingsScript.cs(228)
+msgid "VBScript files (*.vbs)|*.vbs|JScript files (*.js)|*.js|All files (*.*)|*.*"
+msgstr "VB szkript-fájlok (*.vbs)|*.vbs|JAVA szkript-fájlok (*.js)|*.js|Minden fájl (*.*)|*.*"
+
+# FormExportSettingsScript.cs(250)
+msgid "Select output file"
+msgstr "Kimeneti fájl kiválasztása"
+
+# FormExportSettingsScript.cs(251)
+msgid "Text files (*.txt)|*.txt|All files (*.*)|*.*"
+msgstr "Szövegfájl (*.txt)|*.txt|Minden fájl (*.*)|*.*"
+
+# FormExportSettingsSDD.cs(186)
+msgid "Output folder"
+msgstr "Kimeneti könyvtár"
+
+# FormExportSettingsSDD.cs(187)
+msgid "File name (without an extension)"
+msgstr "Fájlnév (kiterjesztés nélkül)"
+
+# FormExportSettingsSDD.cs(191)
+msgid "SDD export settings"
+msgstr "SDD-formátumú exportálás beállításai"
+
+# FormExportSettingsSDD.cs(236)
+msgid "Select a folder to export"
+msgstr "Kimeneti könyvtár kiválasztása"
+
+# FormFormatSelect.cs(124)
+msgid "Available export formats"
+msgstr "Elérhető exportálási formátumok"
+
+# FormFormatSelect.cs(125)
+msgid "Custom script (JScript, VBScript)"
+msgstr "Tetszőleges szkript (JAVA, VB)"
+
+# FormFormatSelect.cs(126)
+msgid "Q-DAS (*.dfd, *.dfx)"
+msgstr "Q-DAS (*.dfd, *.dfx)"
+
+# FormFormatSelect.cs(127)
+msgid "Lighthouse Systems' SPC data file format (*.sdd)"
+msgstr "Lighthouse System SPC-adatfájlja (*.sdd)"
+
+# FormFormatSelect.cs(128)
+msgid "Comma separated values (*.csv)"
+msgstr "Vesszővel elválasztott értékek (*.csv)"
+
+# FormFormatSelect.cs(131)
+msgid "Select export format"
+msgstr "SPC-adatok exportálási formátuma"
+
+# FormOperatorInput.cs(171)
+msgid "Name"
+msgstr "Név"
+
+# FormOperatorInput.cs(175)
+msgid "Operator input"
+msgstr "Kezelői adatok"
+
+# FormSPCAddIn.cs(530)
+msgid "Export..."
+msgstr "Exportálás..."
+
+# FormSPCAddIn.cs(531)
+msgid "Close"
+msgstr "Bezárás"
+
+# FormSPCAddIn.cs(532)
+msgid "Elements to export"
+msgstr "Exportálható elemek"
+
+# FormSPCAddIn.cs(533)
+msgid "Select unexported"
+msgstr "Nem exportált kijelölése"
+
+# FormSPCAddIn.cs(534)
+msgid "Select latest"
+msgstr "Utolsó kijelölése"
+
+# FormSPCAddIn.cs(535)
+# FormSPCAddIn.cs(543)
+msgid "Clear all"
+msgstr "Kijelölés törlése"
+
+# FormSPCAddIn.cs(536)
+msgid "Select all reported"
+msgstr "Jegyzőkönyvezettek kijelölése"
+
+# FormSPCAddIn.cs(537)
+msgid "Measure"
+msgstr "Alkatrészmérés"
+
+# FormSPCAddIn.cs(538)
+msgid "Extra information"
+msgstr "Állapotinformációk"
+
+# FormSPCAddIn.cs(539)
+msgid "Expand"
+msgstr "Kinyitás"
+
+# FormSPCAddIn.cs(540)
+msgid "Collapse"
+msgstr "Becsukás"
+
+# FormSPCAddIn.cs(541)
+msgid "-"
+msgstr "-"
+
+# FormSPCAddIn.cs(542)
+msgid "Expand all"
+msgstr "Mind kinyitása"
+
+# FormSPCAddIn.cs(544)
+# FormSPCAddIn.cs(545)
+msgid "Select all"
+msgstr "Mind kijelölése"
+
+# FormSPCAddIn.cs(546)
+msgid "Measure part name"
+msgstr "Alkatrészmérés neve"
+
+# FormSPCAddIn.cs(547)
+msgid "Settings..."
+msgstr "SPC-export beállításai..."
+
+# FormSPCAddIn.cs(549)
+msgid "SPC Export Add-In [Base measure - \"{0}\"]"
+msgstr "SPC-adatok exportálása [aktív mérés: {0}]"
+
+# FormSPCAddIn.cs(1208)
+msgid "Coordinates"
+msgstr "Koordináták"
+
+# FormSPCAddIn.cs(1712)
+msgid "Invalid for item(s): {0}"
+msgstr "Érvénytelen elemek: {0}"
+
+# FormSPCAddIn.cs(1835)
+msgid "There are no measures to export.\nPlease select at least one."
+msgstr "Nem jelöltünk ki egyetlen exportálandó alkatrészmérést sem.\nJelöljünk ki legalább egyet!"
+
+# FormSPCAddIn.cs(1849)
+msgid "There are no variables to export.\nPlease select at least one."
+msgstr "Nem jelöltünk ki egyetlen exportálandó elemet sem.\nJelöljünk ki legalább egyet!"
+
+# FormSPCAddIn.cs(1863)
+msgid "Some measures are invalid for selected variables.\nPlease check measure's extra information."
+msgstr "Némely kijelölt elem mérése érvénytelen.\nNézzük meg az érvénytelen elemek listáját az 'Állapotinformációk' oszlopban!"
+
+# FormSPCAddIn.cs(1893)
+msgid "Initial setup should be made before export."
+msgstr "A kimeneti beállításokat még az exportálási művelet előtt meg kell adnunk. (Ld. 'SPC-export beállításai...' gombot!)"
+
+# FormSPCAddIn.cs(1907)
+msgid "Export aborted by user"
+msgstr "Az exportálást a felhasználó megszakította."
+
+# FormSPCAddIn.cs(1913)
+msgid "Export has failed because of lack of input data"
+msgstr "Az exportálás sikertelen, mert hiányoznak a bemeneti adatok."
+
+# FormSPCAddIn.cs(1931)
+msgid "Data has been successfully exported"
+msgstr "Az adatokat sikeresen exportáltam."
+
+# FormSPCAddIn.cs(1939)
+msgid "Error while exporting data"
+msgstr "Hiba történt az exportálás közben."
+
+# FormSPCAddIn.cs(2077)
+msgid " {0} items have not been selected because they are not applicable for active sort of measurement"
+msgstr "{0} db. elem nem került kiválasztásra, mert ezek valamelyik alkatrészmérésnél érvénytelenek (pl. nincsenek megmérve)."
+
+# FormSPCAddIn.cs(2142)
+msgid "This measure have been exported before.\nRe-exporting measure may cause wrong statistic processing by SPC software.\n Are you sure you want to re-export data?"
+msgstr "Az alkatrészmérés adatait korábban már exportáltuk.\nHa ismét exportáljuk ezeket az adatokat, az hibás statisztikai eredményeket okozhat az SPC-szoftverben.\nFolytatjuk?"
+
+# FormSPCAddIn.cs(2248)
+msgid "There are already exported measures in the list.\nRe-exporting measures may cause some problems in statistics calculation process of SPC software.\nAre you sure you want to overwrite them all?"
+msgstr "A listában vannak korábban exportált alkatrészmérések is.\nHa ismét exportáljuk ezeket az adatokat, az hibás statisztikai eredményeket okozhat az SPC-szoftverben.\nFolytatjuk?"
+
+# FormSPCAddIn.cs(2249)
+msgid "Already exported measures detected"
+msgstr "Korábban exportált alkatrészméréseket találtam"
+
+# MacroManager.cs(30)
+msgid "Document name"
+msgstr "Dokumentumnév"
+
+# MacroManager.cs(40)
+msgid "Document name (short)"
+msgstr "Dokumentumnév (rövid)"
+
+# MacroManager.cs(51)
+msgid "Measure name"
+msgstr "Alkatrészmérés neve"
+
+# ReportItemGDT.cs(115)
+msgid "Can't create MSXML2.DOMDocument object"
+msgstr "Nem tudom létrehozni az 'MSXML2.DOMDocument' objektumot."
+
+# ScriptProcessorNetCS.cs(74)
+# ScriptProcessorNetJS.cs(63)
+# ScriptProcessorNetVB.cs(64)
+msgid "Line: {0}, Col: {1}, Error: {2} - {3}"
+msgstr "Sor: {0}, Oszlop: {1}, Hiba: {2} - {3}"
+
+# ScriptProcessorNetCS.cs(75)
+# ScriptProcessorNetJS.cs(64)
+# ScriptProcessorNetVB.cs(65)
+msgid "Error while compiling script"
+msgstr "Hiba történt a szkriptfájl fordításakor."
+
+# ScriptProcessorNetCS.cs(92)
+# ScriptProcessorNetJS.cs(81)
+# ScriptProcessorNetVB.cs(80)
+msgid "Can't find class {0} in script file"
+msgstr "Nem találom a(z) {0} nevű objektumosztályt a szkriptfájlban."
+
+# ExportSettingsQDAS.cs(458)
+msgid "Part number"
+msgstr "Termékszám"
+
+# ExportSettingsQDAS.cs(463)
+msgid "Part description"
+msgstr "Alkatrész leírása"
+
+# ExportSettingsQDAS.cs(468)
+msgid "Part abbreviation"
+msgstr "Alkatrész rövidítése"
+
+# ExportSettingsQDAS.cs(473)
+msgid "Part Amendment status"
+msgstr "Alkatrészmódosítás állapota"
+
+# ExportSettingsQDAS.cs(478)
+msgid "Product"
+msgstr "Termék"
+
+# ExportSettingsQDAS.cs(483)
+msgid "Abbreviation Part no."
+msgstr "Rövidített alkatrészszám"
+
+# ExportSettingsQDAS.cs(488)
+msgid "Part type"
+msgstr "Alkatrész típusa"
+
+# ExportSettingsQDAS.cs(493)
+msgid "Part code"
+msgstr "Alkatrészkód"
+
+# ExportSettingsQDAS.cs(498)
+msgid "Control item"
+msgstr "Ellenőrző elem"
+
+# ExportSettingsQDAS.cs(503)
+msgid "Variant"
+msgstr "Változó"
+
+# ExportSettingsQDAS.cs(508)
+msgid "ID number annex"
+msgstr "Kapcsolódó ID-szám"
+
+# ExportSettingsQDAS.cs(513)
+msgid "ID number index"
+msgstr "Index ID-szám"
+
+# ExportSettingsQDAS.cs(518)
+msgid "Parts ID"
+msgstr "Alkatrész ID"
+
+# ExportSettingsQDAS.cs(523)
+msgid "Assembly part"
+msgstr "Szerelt alkatrész"
+
+# ExportSettingsQDAS.cs(528)
+msgid "Manufacturer Catalog"
+msgstr "Gyártó katalógusa"
+
+# ExportSettingsQDAS.cs(533)
+msgid "Manufacturer No."
+msgstr "Gyártó sorszáma"
+
+# ExportSettingsQDAS.cs(538)
+msgid "Manufacturer name"
+msgstr "Gyártó neve"
+
+# ExportSettingsQDAS.cs(543)
+msgid "Manufacturer number"
+msgstr "Gyártó száma"
+
+# ExportSettingsQDAS.cs(548)
+msgid "Materials Catalog"
+msgstr "Anyagminőség-katalógus"
+
+# ExportSettingsQDAS.cs(553)
+# ExportSettingsQDAS.cs(563)
+msgid "Material number"
+msgstr "Anyagminőség száma"
+
+# ExportSettingsQDAS.cs(558)
+msgid "Material Description"
+msgstr "Anyagminőség leírása"
+
+# ExportSettingsQDAS.cs(568)
+msgid "Drawing Catalog"
+msgstr "Rajzkatalógus"
+
+# ExportSettingsQDAS.cs(573)
+msgid "Drawing number"
+msgstr "Rajzszám"
+
+# ExportSettingsQDAS.cs(578)
+msgid "Drawing Amendment"
+msgstr "Rajzi módosítás"
+
+# ExportSettingsQDAS.cs(583)
+msgid "Drawing Index"
+msgstr "Rajzindex"
+
+# ExportSettingsQDAS.cs(588)
+msgid "Drawing Number"
+msgstr "Rajzszám"
+
+# ExportSettingsQDAS.cs(593)
+msgid "Drawing validation date"
+msgstr "Rajz jóváhagyásának dátuma"
+
+# ExportSettingsQDAS.cs(598)
+msgid "Drawing name"
+msgstr "Rajz neve"
+
+# ExportSettingsQDAS.cs(603)
+msgid "Basic drawing number"
+msgstr "Alap rajzszám"
+
+# ExportSettingsQDAS.cs(608)
+# ExportSettingsQDAS.cs(623)
+msgid "Contractor Number"
+msgstr "Szerződő száma"
+
+# ExportSettingsQDAS.cs(613)
+msgid "Contractor Name"
+msgstr "Szerződő neve"
+
+# ExportSettingsQDAS.cs(618)
+msgid "Contract"
+msgstr "Szerződés"
+
+# ExportSettingsQDAS.cs(628)
+# ExportSettingsQDAS.cs(638)
+msgid "Customer Number"
+msgstr "Ügyfél száma"
+
+# ExportSettingsQDAS.cs(633)
+msgid "Customer Name"
+msgstr "Ügyfél neve"
+
+# ExportSettingsQDAS.cs(643)
+# ExportSettingsQDAS.cs(653)
+msgid "Supplier Number"
+msgstr "Szállító száma"
+
+# ExportSettingsQDAS.cs(648)
+msgid "Supplier Name"
+msgstr "Szállító neve"
+
+# ExportSettingsQDAS.cs(658)
+# ExportSettingsQDAS.cs(668)
+msgid "Machine Number"
+msgstr "Gép száma"
+
+# ExportSettingsQDAS.cs(663)
+msgid "Machine Description"
+msgstr "Gép leírása"
+
+# ExportSettingsQDAS.cs(673)
+msgid "Machine Location"
+msgstr "Gép üzemeltetési helye"
+
+# ExportSettingsQDAS.cs(678)
+msgid "Work Cycle"
+msgstr "Munkaciklus"
+
+# ExportSettingsQDAS.cs(683)
+msgid "Plant Sector"
+msgstr "Telepszektor"
+
+# ExportSettingsQDAS.cs(688)
+msgid "Department"
+msgstr "Részleg"
+
+# ExportSettingsQDAS.cs(693)
+msgid "Workshop/sector"
+msgstr "Műhely/szektor"
+
+# ExportSettingsQDAS.cs(698)
+msgid "Cost centre"
+msgstr "Költséghely"
+
+# ExportSettingsQDAS.cs(703)
+msgid "Shift"
+msgstr "Műszak"
+
+# ExportSettingsQDAS.cs(708)
+msgid "Order number"
+msgstr "Rendelési szám"
+
+# ExportSettingsQDAS.cs(713)
+msgid "Goods received number"
+msgstr "Bejövő áru száma"
+
+# ExportSettingsQDAS.cs(718)
+msgid "Test Facility Number"
+msgstr "Tesztberendezés száma"
+
+# ExportSettingsQDAS.cs(723)
+msgid "Test Facility Description"
+msgstr "Tesztberendezés leírása"
+
+# ExportSettingsQDAS.cs(728)
+msgid "Reason for Test"
+msgstr "Teszt oka"
+
+# ExportSettingsQDAS.cs(733)
+msgid "Test Begin"
+msgstr "Tesztelés kezdete"
+
+# ExportSettingsQDAS.cs(738)
+msgid "Test End"
+msgstr "Tesztelés vége"
+
+# ExportSettingsQDAS.cs(743)
+msgid "Test Location"
+msgstr "Tesztelés helye"
+
+# ExportSettingsQDAS.cs(748)
+msgid "Test Facility No."
+msgstr "Tesztberendezés sorszáma"
+
+# ExportSettingsQDAS.cs(753)
+msgid "Inspection type"
+msgstr "Bevizsgálás típusa"
+
+# ExportSettingsQDAS.cs(758)
+msgid "measurement type"
+msgstr "Mérés típusa"
+
+# ExportSettingsQDAS.cs(763)
+msgid "Standard Number"
+msgstr "Szabvány száma"
+
+# ExportSettingsQDAS.cs(768)
+msgid "Standard description"
+msgstr "Szabvány leírása"
+
+# ExportSettingsQDAS.cs(773)
+msgid "Standard number"
+msgstr "Szabvány száma"
+
+# ExportSettingsQDAS.cs(778)
+# ExportSettingsQDAS.cs(788)
+msgid "Inspector number"
+msgstr "Bevizsgáló száma"
+
+# ExportSettingsQDAS.cs(783)
+msgid "Inspector name"
+msgstr "Bevizsgáló neve"
+
+# ExportSettingsQDAS.cs(793)
+msgid "Gage room"
+msgstr "Mérőszoba"
+
+# ExportSettingsQDAS.cs(798)
+msgid "Measuring program number"
+msgstr "Mérőprogram száma"
+
+# ExportSettingsQDAS.cs(803)
+msgid "Measuring program version"
+msgstr "Mérőprogram verziója"
+
+# ExportSettingsQDAS.cs(808)
+msgid "Client"
+msgstr "Ügyfél"
+
+# ExportSettingsQDAS.cs(813)
+msgid "Test batch"
+msgstr "Sorozatteszt"
+
+# ExportSettingsQDAS.cs(818)
+msgid "plant"
+msgstr "Telephely"
+
+# ExportSettingsQDAS.cs(823)
+msgid "Production order"
+msgstr "Gyártási előírás"
+
+# ExportSettingsQDAS.cs(828)
+msgid "Test Plan Number Text"
+msgstr "Tesztelési terv száma, szövege"
+
+# ExportSettingsQDAS.cs(833)
+msgid "Test Plan Name"
+msgstr "Tesztelési terv neve"
+
+# ExportSettingsQDAS.cs(838)
+msgid "Test Plan Development Date"
+msgstr "Tesztelési terv készítési dátuma"
+
+# ExportSettingsQDAS.cs(843)
+msgid "Test Plan Developer"
+msgstr "Tesztelési terv készítője"
+
+# ExportSettingsQDAS.cs(848)
+msgid "Remark"
+msgstr "Megjegyzés"
+
+# ExportSettingsQDAS.cs(858)
+msgid "attribute"
+msgstr "Tulajdonság"
+
+# ExportSettingsQDAS.cs(863)
+msgid "Flag"
+msgstr "Jelző"
+
+# ExportSettingsQDAS.cs(868)
+msgid "Event"
+msgstr "Esemény"
+
+# ExportSettingsQDAS.cs(873)
+msgid "Batch number"
+msgstr "Sorozatszám"
+
+# ExportSettingsQDAS.cs(878)
+msgid "Cavity number"
+msgstr "Fészekszám"
+
+# ExportSettingsQDAS.cs(883)
+msgid "Operator name"
+msgstr "Kezelő neve"
+
+# ExportSettingsQDAS.cs(888)
+msgid "Text"
+msgstr "Szöveg"
+
+# ExportSettingsQDAS.cs(893)
+msgid "Machine number"
+msgstr "Gép száma"
+
+# ExportSettingsQDAS.cs(898)
+msgid "Process parameter"
+msgstr "Folyamatparaméter"
+
+# ExportSettingsQDAS.cs(903)
+msgid "Gage number"
+msgstr "Idomszer száma"
+
+# ExportSettingsQDAS.cs(908)
+msgid "Process parameter value"
+msgstr "Folyamatparaméter értéke"
+
+# ExportSettingsQDAS.cs(913)
+msgid "Subgroup size"
+msgstr "Alcsoport mérete"
+
+# ExportSettingsQDAS.cs(918)
+msgid "No. of errors"
+msgstr "Hibák száma"
+
+# ExportSettingsQDAS.cs(923)
+msgid "Number < LSL"
+msgstr "Hibák < LSL"
+
+# ExportSettingsQDAS.cs(928)
+msgid "Number > USL"
+msgstr "Hibák > USL"
+
+# ExportSettingsQDAS.cs(933)
+msgid "Rejects"
+msgstr "Elutasítások"
+
+# ExportSettingsQDAS.cs(938)
+msgid "Re-work"
+msgstr "Újrafeldolgozás"
+
+# ExportSettingsQDAS.cs(943)
+msgid "Error class"
+msgstr "Hibaosztály"
+
+# ExportSettingsQDAS.cs(948)
+msgid "Order"
+msgstr "Rendelés"
+
