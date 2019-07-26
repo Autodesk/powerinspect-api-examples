@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PI XLS Report Creator", "PI XLS Report Creator\PI XLS Report Creator.vbproj", "{15D2FEB1-29F1-4825-AA61-8C6CEA2B4ED4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PI XLS ReportCreator Setup", "PI XLS Report Creator Setup\PI XLS Report Creator Setup.vdproj", "{BEDC1D1C-B436-4937-B8EA-0E494F15B02D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15D2FEB1-29F1-4825-AA61-8C6CEA2B4ED4}.Debug|x64.ActiveCfg = Debug|x64
+		{15D2FEB1-29F1-4825-AA61-8C6CEA2B4ED4}.Debug|x64.Build.0 = Debug|x64
+		{15D2FEB1-29F1-4825-AA61-8C6CEA2B4ED4}.Release|x64.ActiveCfg = Release|x64
+		{15D2FEB1-29F1-4825-AA61-8C6CEA2B4ED4}.Release|x64.Build.0 = Release|x64
+		{BEDC1D1C-B436-4937-B8EA-0E494F15B02D}.Debug|x64.ActiveCfg = Debug
+		{BEDC1D1C-B436-4937-B8EA-0E494F15B02D}.Release|x64.ActiveCfg = Release
+		{BEDC1D1C-B436-4937-B8EA-0E494F15B02D}.Release|x64.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B29BC460-0E86-47A4-8A9A-6EB0A2170C1F}
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal
