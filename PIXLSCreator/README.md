@@ -8,9 +8,6 @@ The application will start Microsoft Excel and copy the parsed data into an Exce
 
 The format of the Excel worksheet, columns/rows to put the data etc. is configurable.
 
-To Contribute please see [Contribute.md](Contribute.md). 
-
-The extension is distributed under the MIT license. See [LICENSE.txt](LICENSE.txt).
 
 ## Build
 
