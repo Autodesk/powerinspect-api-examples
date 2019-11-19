@@ -1,0 +1,48 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiAppLauncher", "PiAppLauncher\PiAppLauncher.csproj", "{655FD9E9-05EC-4689-A9B7-75ACD4B08FD6}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PI DocModifier", "PI DocModifier\PI DocModifier.vbproj", "{2EEEAB81-47D9-4D6C-853B-C5CFB1CA8597}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PI CopyTransform", "PI CopyTransform\PI CopyTransform.vbproj", "{3DD39908-B686-4418-8787-D3AE9F594FEC}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PI Miscellaneous", "PI Miscellaneous\PI Miscellaneous.vbproj", "{98B541FA-589D-4D18-8640-CA5E027A25F4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{11D9F1EE-5503-474F-B82B-17461D641B04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{655FD9E9-05EC-4689-A9B7-75ACD4B08FD6}.Debug|x64.ActiveCfg = Debug|x64
+		{655FD9E9-05EC-4689-A9B7-75ACD4B08FD6}.Debug|x64.Build.0 = Debug|x64
+		{655FD9E9-05EC-4689-A9B7-75ACD4B08FD6}.Release|x64.ActiveCfg = Release|x64
+		{655FD9E9-05EC-4689-A9B7-75ACD4B08FD6}.Release|x64.Build.0 = Release|x64
+		{2EEEAB81-47D9-4D6C-853B-C5CFB1CA8597}.Debug|x64.ActiveCfg = Debug|x64
+		{2EEEAB81-47D9-4D6C-853B-C5CFB1CA8597}.Debug|x64.Build.0 = Debug|x64
+		{2EEEAB81-47D9-4D6C-853B-C5CFB1CA8597}.Release|x64.ActiveCfg = Release|x64
+		{2EEEAB81-47D9-4D6C-853B-C5CFB1CA8597}.Release|x64.Build.0 = Release|x64
+		{3DD39908-B686-4418-8787-D3AE9F594FEC}.Debug|x64.ActiveCfg = Debug|x64
+		{3DD39908-B686-4418-8787-D3AE9F594FEC}.Debug|x64.Build.0 = Debug|x64
+		{3DD39908-B686-4418-8787-D3AE9F594FEC}.Release|x64.ActiveCfg = Release|x64
+		{3DD39908-B686-4418-8787-D3AE9F594FEC}.Release|x64.Build.0 = Release|x64
+		{98B541FA-589D-4D18-8640-CA5E027A25F4}.Debug|x64.ActiveCfg = Debug|x64
+		{98B541FA-589D-4D18-8640-CA5E027A25F4}.Debug|x64.Build.0 = Debug|x64
+		{98B541FA-589D-4D18-8640-CA5E027A25F4}.Release|x64.ActiveCfg = Release|x64
+		{98B541FA-589D-4D18-8640-CA5E027A25F4}.Release|x64.Build.0 = Release|x64
+		{11D9F1EE-5503-474F-B82B-17461D641B04}.Debug|x64.ActiveCfg = Debug
+		{11D9F1EE-5503-474F-B82B-17461D641B04}.Release|x64.ActiveCfg = Release
+		{11D9F1EE-5503-474F-B82B-17461D641B04}.Release|x64.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+		SolutionGuid = {1CA6A9BB-3735-4CDA-A530-FB615381100B}
+	EndGlobalSection
+EndGlobal

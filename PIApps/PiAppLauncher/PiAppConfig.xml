@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PiAppsProcessesConfig>
+  <PiAppsProcesses>
+   <PiAppsProcess Active="False" Title="ext APP01" ProcessPath="c:\test\test.bat" Info="Sample to start APP 1 (BAT)">
+    </PiAppsProcess>
+    <PiAppsProcess Active="False" Title="ext APP02" ProcessPath="c:\test\test.bat" Info="Sample to start APP  2 (BAT)">
+    </PiAppsProcess>
+    <PiAppsProcess Active="False" Title="ext APP03" ProcessPath="c:\test\test.exe" Info="Sample to start APP  3 (EXE)">
+    </PiAppsProcess>
+  </PiAppsProcesses>
+</PiAppsProcessesConfig>
