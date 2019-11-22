@@ -22,3 +22,5 @@ The PowerInspect team will merge changes that fix bugs or enhance the ability of
 The PowerInspect team will not merge changes that have narrowly-defined benefits.
 
 Note that the add-ins that are currently distributed with the PowerInspect product may be built from a separate copy of this source. As such, contributions merged into this repository may be built into the add-ins distributed with PowerInspect.
+
+You have no obligation to provide Autodesk with ideas for improvement, suggestions, fixes, enhancement or other feedback (collectively, Feedback), If, however, you provide any Feedback, You grant to Autodesk a non-exclusive, transferable, irrevocable, worldwide, royalty-free license (with rights to sublicense) to make, use, sell, offer to sell, reproduce, modify, distribute, make available, publicly display and perform, disclose and otherwise exploit the Feedback and any offerings using the Feedback.
